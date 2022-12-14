@@ -24,7 +24,7 @@ jobs:
       # Sync tokens
       - name: Synchronize tokens with Supernova 
         run: supernova sync-tokens \
-        --apiKey=${{ secrets.supernova_github}} \
+        --apiKey=${{ secrets.SUPERNOVA_GITHUB}} \
         --designSystemId="20980" \
         --tokenDirPath="schae-ma/tuvsud-TICA-design-system/tokens/" \
         --configFilePath="schae-ma/tuvsud-TICA-design-system/supernova.settings.json" \
