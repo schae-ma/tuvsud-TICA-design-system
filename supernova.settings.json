@@ -1,0 +1,5 @@
+  $ supernova sync-tokens \
+    --apiKey="sn.WLT3QH9ATkfwAXxRwob0Atvr9oMr6rGTBv353SVvcLF6O8NOdjR5wgSu6OQRt8Tv9NeFfiM6cNaERcRCPcjTLFmmGrBuVXsQ" \
+    --designSystemId="20980" \
+    --tokenDirPath "schae-ma/tuvsud-TICA-design-system/tokens/" \
+    --configFilePath "schae-ma/tuvsud-TICA-design-system/supernova.settings.json"
