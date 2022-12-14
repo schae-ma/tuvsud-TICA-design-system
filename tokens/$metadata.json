@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "semantic",
+    "comp",
+    "comp/alert",
+    "comp/button",
+    "comp/forms"
+  ]
+}
