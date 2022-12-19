@@ -12,8 +12,7 @@
     }
   ],
   "settings": {
-    "dryRun": true,
-    "verbose": true,
-    "preciseCopy": true
+    "dryRun": false,
+    "verbose": false
   }
 }
