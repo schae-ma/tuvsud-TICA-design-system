@@ -719,12 +719,6 @@
       }
     }
   },
-  "test": {
-    "example": {
-      "value": "{size.700}",
-      "type": "sizing"
-    }
-  },
   "CTA btn s": {
     "value": {
       "height": "{sizes.comp.button.s.height}",
