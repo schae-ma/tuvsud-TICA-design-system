@@ -1191,9 +1191,9 @@
         "shadow": {
           "value": [
             {
-              "x": "{size.0}",
+              "x": "{sizes.core.0}",
               "y": "{sizes.core.100}",
-              "blur": "{size.125}",
+              "blur": "{sizes.core.125}",
               "spread": "0",
               "color": "hsla(0, 0%, 0%, 0.07)",
               "type": "dropShadow"
