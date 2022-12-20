@@ -52,11 +52,6 @@
           "value": "#ffffff",
           "type": "color"
         },
-        //"transparent": {
-        //  "value": "hsla(255,0%,100%,0.01)",
-        //  "type": "color"
-        //}
-      //},
       "green": {
         "green-50": {
           "value": "#e6f2eb",
