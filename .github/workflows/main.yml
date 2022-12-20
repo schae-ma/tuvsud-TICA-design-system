@@ -49,5 +49,5 @@ jobs:
           --apiKey="${{ secrets.SUPERNOVA_GITHUB }}"
           --designSystemId="20980" 
           --tokenDirPath "${{ github.workspace }}/tokens" 
-          --configFilePath "${{ github.workspace }}/tokens/supernova.settings.json"
+          --configFilePath "${{ github.workspace }}/supernova.settings.json"
              
