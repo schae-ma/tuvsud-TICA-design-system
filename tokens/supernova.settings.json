@@ -1,12 +1,12 @@
 {
   "mode": "multi-file",
   "mapping": [{
-      "tokensTheme": "light",
+      "tokensTheme": "acb3ed0a813ff8da35b5ad81eaeb96bdcaa4f318",
       "supernovaBrand": "Default",
       "supernovaTheme": null
     },
     {
-      "tokensTheme": "core",
+      "tokensTheme": "b1722b5af6164797e02e6abd7c7b8d322ae3066d",
       "supernovaBrand": "Default",
       "supernovaTheme": "coreTheme"
     }
