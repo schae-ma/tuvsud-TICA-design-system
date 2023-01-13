@@ -1,0 +1,125 @@
+{
+  "typography": {
+    "comp": {
+      "accordion": {
+        "large": {
+          "title-closed": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.regular}",
+              "lineHeight": "{lineHeights.semantic.typography.heading}",
+              "fontSize": "{fontSizes.semantic.typography.heading.s}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          },
+          "body": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.regular}",
+              "lineHeight": "{lineHeights.semantic.typography.body}",
+              "fontSize": "{fontSizes.semantic.typography.body.l}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          },
+          "title-open": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.bold}",
+              "lineHeight": "{lineHeights.semantic.typography.heading}",
+              "fontSize": "{fontSizes.semantic.typography.heading.s}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          }
+        },
+        "medium": {
+          "body": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.regular}",
+              "lineHeight": "{lineHeights.semantic.typography.body}",
+              "fontSize": "{fontSizes.semantic.typography.body.m}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          },
+          "title-closed": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.regular}",
+              "lineHeight": "{lineHeights.semantic.typography.heading}",
+              "fontSize": "{fontSizes.semantic.typography.heading.xs}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          },
+          "title-open": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.bold}",
+              "lineHeight": "{lineHeights.semantic.typography.heading}",
+              "fontSize": "{fontSizes.semantic.typography.heading.xs}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          }
+        },
+        "small": {
+          "body": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.regular}",
+              "lineHeight": "{lineHeights.semantic.typography.body}",
+              "fontSize": "{fontSizes.semantic.typography.body.s}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          },
+          "title-closed": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.regular}",
+              "lineHeight": "{lineHeights.semantic.typography.heading}",
+              "fontSize": "{fontSizes.semantic.typography.heading.xxs}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          },
+          "title-open": {
+            "value": {
+              "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
+              "fontWeight": "{fontWeights.semantic.typography.bold}",
+              "lineHeight": "{lineHeights.semantic.typography.heading}",
+              "fontSize": "{fontSizes.semantic.typography.heading.xxs}",
+              "textDecoration": "{textDecorations.core.none}",
+              "textCase": "{textCases.core.none}"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    }
+  },
+  "sizes": {
+    "comp": {
+      "accordion": {
+        "icons": {
+          "large": {
+            "value": "{sizes.semantic.actions.icon-size.medium}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

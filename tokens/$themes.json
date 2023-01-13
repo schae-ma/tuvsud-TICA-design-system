@@ -8,7 +8,8 @@
       "comp": "enabled",
       "comp/button": "enabled",
       "comp/alert": "enabled",
-      "comp/forms": "enabled"
+      "comp/forms": "enabled",
+      "comp/accordion": "disabled"
     },
     "$figmaStyleReferences": {
       "colors.comp.button.cta.default.background-color": "S:2d98499822d6bead477e35ce9c405df543229964,",

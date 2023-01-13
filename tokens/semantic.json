@@ -1282,6 +1282,10 @@
             "value": "{fontSizes.core.4}",
             "type": "fontSizes"
           },
+          "xxs": {
+            "value": "{fontSizes.core.3}",
+            "type": "fontSizes"
+          },
           "s": {
             "value": "{fontSizes.core.5}",
             "type": "fontSizes"

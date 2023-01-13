@@ -3,6 +3,7 @@
     "core",
     "semantic",
     "comp",
+    "comp/accordion",
     "comp/alert",
     "comp/button",
     "comp/forms"
