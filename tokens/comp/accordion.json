@@ -117,8 +117,140 @@
           "large": {
             "value": "{sizes.semantic.actions.icon-size.medium}",
             "type": "sizing"
+          },
+          "medium": {
+            "value": "{sizes.semantic.actions.icon-size.medium}",
+            "type": "sizing"
+          },
+          "small": {
+            "value": "{sizes.semantic.actions.icon-size.medium}",
+            "type": "sizing"
+          }
+        },
+        "large": {
+          "value": "{sizes.semantic.component.large}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{sizes.semantic.component.medium}",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "{sizes.semantic.component.small}",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "spacings": {
+    "comp": {
+      "accordion": {
+        "large": {
+          "padding-left": {
+            "value": "{spacings.semantic.inputs.large.padding-left}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacings.semantic.inputs.large.padding-right}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacings.semantic.inputs.medium.padding-top}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacings.semantic.inputs.medium.padding-bottom}",
+            "type": "spacing"
+          }
+        },
+        "icons": {
+          "padding-left": {
+            "value": "{spacings.semantic.inputs.large.padding-left}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacings.semantic.inputs.large.padding-right}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacings.semantic.inputs.medium.padding-top}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacings.semantic.inputs.medium.padding-bottom}",
+            "type": "spacing"
+          }
+        },
+        "spacing-between": {
+          "value": "{spacings.semantic.ui.s.space-between}",
+          "type": "spacing"
+        },
+        "medium": {
+          "padding-left": {
+            "value": "{spacings.semantic.inputs.medium.padding-left}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacings.semantic.inputs.medium.padding-right}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacings.semantic.inputs.small.padding-top}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacings.semantic.inputs.small.padding-bottom}",
+            "type": "spacing"
+          }
+        },
+        "small": {
+          "padding-left": {
+            "value": "{spacings.semantic.inputs.medium.padding-left}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacings.semantic.inputs.medium.padding-right}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacings.semantic.inputs.extra-small.padding-top}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacings.semantic.inputs.extra-small.padding-bottom}",
+            "type": "spacing"
           }
         }
+      }
+    }
+  },
+  "colors": {
+    "comp": {
+      "accordion": {
+        "bg": {
+          "value": "{colors.semantic.bg.surface}",
+          "type": "color"
+        },
+        "text-default": {
+          "value": "{colors.semantic.typography.default}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{colors.semantic.primary.default}",
+          "type": "color"
+        },
+        "title": {
+          "value": "{colors.semantic.primary.default}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "comp": {
+      "accordion": {
+        "value": "{borderRadius.semantic.ui.default}",
+        "type": "borderRadius"
       }
     }
   }

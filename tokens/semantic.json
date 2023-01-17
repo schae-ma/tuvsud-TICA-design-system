@@ -2173,6 +2173,12 @@
       "actions": {
         "value": "{borderRadius.core.2}",
         "type": "borderRadius"
+      },
+      "ui": {
+        "default": {
+          "value": "{borderRadius.core.2}",
+          "type": "borderRadius"
+        }
       }
     }
   },
