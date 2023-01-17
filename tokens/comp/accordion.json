@@ -235,12 +235,20 @@
           "value": "{colors.semantic.typography.default}",
           "type": "color"
         },
-        "icon": {
+        "icon-default": {
           "value": "{colors.semantic.primary.default}",
           "type": "color"
         },
-        "title": {
+        "icon-hover": {
+          "value": "{colors.semantic.cta.emphasised}",
+          "type": "color"
+        },
+        "title-default": {
           "value": "{colors.semantic.primary.default}",
+          "type": "color"
+        },
+        "title-hover": {
+          "value": "{colors.semantic.cta.emphasised}",
           "type": "color"
         }
       }
