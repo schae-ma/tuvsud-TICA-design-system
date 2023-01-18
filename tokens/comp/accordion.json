@@ -28,7 +28,7 @@
           "title-open": {
             "value": {
               "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
-              "fontWeight": "{fontWeights.semantic.typography.bold}",
+              "fontWeight": "{fontWeights.semantic.typography.medium}",
               "lineHeight": "{lineHeights.semantic.typography.heading}",
               "fontSize": "{fontSizes.semantic.typography.heading.s}",
               "textDecoration": "{textDecorations.core.none}",
@@ -63,7 +63,7 @@
           "title-open": {
             "value": {
               "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
-              "fontWeight": "{fontWeights.semantic.typography.bold}",
+              "fontWeight": "{fontWeights.semantic.typography.medium}",
               "lineHeight": "{lineHeights.semantic.typography.heading}",
               "fontSize": "{fontSizes.semantic.typography.heading.xs}",
               "textDecoration": "{textDecorations.core.none}",
@@ -98,7 +98,7 @@
           "title-open": {
             "value": {
               "fontFamily": "{fontFamilies.semantic.typography.sans-serif}",
-              "fontWeight": "{fontWeights.semantic.typography.bold}",
+              "fontWeight": "{fontWeights.semantic.typography.medium}",
               "lineHeight": "{lineHeights.semantic.typography.heading}",
               "fontSize": "{fontSizes.semantic.typography.heading.xxs}",
               "textDecoration": "{textDecorations.core.none}",
@@ -128,15 +128,15 @@
           }
         },
         "large": {
-          "value": "{sizes.semantic.component.large}",
+          "value": "{sizes.semantic.component.extra-large}",
           "type": "sizing"
         },
         "medium": {
-          "value": "{sizes.semantic.component.medium}",
+          "value": "{sizes.semantic.component.large}",
           "type": "sizing"
         },
         "small": {
-          "value": "{sizes.semantic.component.small}",
+          "value": "{sizes.semantic.component.medium}",
           "type": "sizing"
         }
       }
@@ -155,11 +155,15 @@
             "type": "spacing"
           },
           "padding-top": {
-            "value": "{spacings.semantic.inputs.medium.padding-top}",
+            "value": "{spacings.semantic.inputs.large.padding-top}",
             "type": "spacing"
           },
           "padding-bottom": {
-            "value": "{spacings.semantic.inputs.medium.padding-bottom}",
+            "value": "{spacings.semantic.inputs.large.padding-bottom}",
+            "type": "spacing"
+          },
+          "spacing-between": {
+            "value": "{spacings.semantic.ui.s.space-between}",
             "type": "spacing"
           }
         },
@@ -181,11 +185,33 @@
             "type": "spacing"
           }
         },
-        "spacing-between": {
-          "value": "{spacings.semantic.ui.s.space-between}",
-          "type": "spacing"
-        },
         "medium": {
+          "spacing-between": {
+            "value": "{spacings.semantic.ui.xs.space-between}+4",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{spacings.semantic.inputs.medium.padding-left}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacings.semantic.inputs.medium.padding-right}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacings.semantic.inputs.medium.padding-top}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacings.semantic.inputs.medium.padding-bottom}",
+            "type": "spacing"
+          }
+        },
+        "small": {
+          "spacing-between": {
+            "value": "{spacings.semantic.ui.xs.space-between}",
+            "type": "spacing"
+          },
           "padding-left": {
             "value": "{spacings.semantic.inputs.medium.padding-left}",
             "type": "spacing"
@@ -199,25 +225,7 @@
             "type": "spacing"
           },
           "padding-bottom": {
-            "value": "{spacings.semantic.inputs.small.padding-bottom}",
-            "type": "spacing"
-          }
-        },
-        "small": {
-          "padding-left": {
-            "value": "{spacings.semantic.inputs.medium.padding-left}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{spacings.semantic.inputs.medium.padding-right}",
-            "type": "spacing"
-          },
-          "padding-top": {
-            "value": "{spacings.semantic.inputs.extra-small.padding-top}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{spacings.semantic.inputs.extra-small.padding-bottom}",
+            "value": "{spacings.semantic.inputs.small.padding-top}",
             "type": "spacing"
           }
         }
@@ -239,16 +247,20 @@
           "value": "{colors.semantic.primary.default}",
           "type": "color"
         },
+        "border-open": {
+          "value": "{colors.semantic.primary.default}",
+          "type": "color"
+        },
         "icon-hover": {
           "value": "{colors.semantic.cta.emphasised}",
           "type": "color"
         },
         "title-default": {
-          "value": "{colors.semantic.primary.default}",
+          "value": "{colors.semantic.typography.default}",
           "type": "color"
         },
-        "title-hover": {
-          "value": "{colors.semantic.cta.emphasised}",
+        "border-default": {
+          "value": "{colors.semantic.inputs.border.subtle}",
           "type": "color"
         }
       }
@@ -257,8 +269,22 @@
   "borderRadius": {
     "comp": {
       "accordion": {
-        "value": "{borderRadius.semantic.ui.default}",
+        "value": "{borderRadius.semantic.ui.none}",
         "type": "borderRadius"
+      }
+    }
+  },
+  "borderWidths": {
+    "comp": {
+      "accordion": {
+        "default": {
+          "value": "{borderWidths.semantic.inputs}",
+          "type": "borderWidth"
+        },
+        "open": {
+          "value": "{borderWidths.semantic.navigation}",
+          "type": "borderWidth"
+        }
       }
     }
   }

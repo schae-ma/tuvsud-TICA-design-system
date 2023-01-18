@@ -406,6 +406,10 @@
           "disabled": {
             "value": "{colors.semantic.fg.on-disabled}",
             "type": "color"
+          },
+          "subtle": {
+            "value": "{colors.semantic.neutral.subtle}",
+            "type": "color"
           }
         },
         "fg": {
@@ -2177,6 +2181,10 @@
       "ui": {
         "default": {
           "value": "{borderRadius.core.2}",
+          "type": "borderRadius"
+        },
+        "none": {
+          "value": "{borderRadius.core.0}",
           "type": "borderRadius"
         }
       }
