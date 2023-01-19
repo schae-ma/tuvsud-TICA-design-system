@@ -243,16 +243,12 @@
           "value": "{colors.semantic.typography.default}",
           "type": "color"
         },
-        "icon-default": {
-          "value": "{colors.semantic.primary.default}",
+        "icon": {
+          "value": "{colors.semantic.typography.default}",
           "type": "color"
         },
         "border-open": {
           "value": "{colors.semantic.primary.default}",
-          "type": "color"
-        },
-        "icon-hover": {
-          "value": "{colors.semantic.cta.emphasised}",
           "type": "color"
         },
         "title-default": {
