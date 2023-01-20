@@ -1765,6 +1765,32 @@
         }
       },
       "ui": {
+        "xl": {
+          "padding-top": {
+            "value": "{spacings.core.08}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacings.core.08}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{spacings.core.08}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacings.core.08}",
+            "type": "spacing"
+          },
+          "space-between": {
+            "value": "{spacings.core.10}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{spacings.core.06}",
+            "type": "spacing"
+          }
+        },
         "xxs": {
           "space-between": {
             "value": "{spacings.core.02}",
@@ -1812,16 +1838,6 @@
           },
           "space-around": {
             "value": "{spacings.core.05}",
-            "type": "spacing"
-          }
-        },
-        "xl": {
-          "space-between": {
-            "value": "{spacings.core.10}",
-            "type": "spacing"
-          },
-          "space-around": {
-            "value": "{spacings.core.06}",
             "type": "spacing"
           }
         },

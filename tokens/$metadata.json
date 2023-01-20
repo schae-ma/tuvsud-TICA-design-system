@@ -4,8 +4,8 @@
     "semantic",
     "comp",
     "comp/accordion",
-    "comp/alert",
     "comp/button",
-    "comp/forms"
+    "comp/forms",
+    "comp/notifications"
   ]
 }
