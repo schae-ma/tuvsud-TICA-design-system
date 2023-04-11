@@ -209,19 +209,19 @@
       },
       "help": {
         "fg": {
-          "value": "{colors.core.purple.500}",
+          "value": "{colors.core.purple.purple-500}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{colors.core.purple.600}",
+          "value": "{colors.core.purple.purple-600}",
           "type": "color"
         },
         "muted": {
-          "value": "{colors.core.purple.400}",
+          "value": "{colors.core.purple.purple-400}",
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.core.purple.100}",
+          "value": "{colors.core.purple.purple-100}",
           "type": "color"
         },
         "on-success": {

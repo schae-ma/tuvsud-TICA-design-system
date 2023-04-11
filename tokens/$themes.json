@@ -394,16 +394,6 @@
       "colors.core.red.red-700": "S:3bfc77cbaffff39b4e990cfc360db238456917a3,",
       "colors.core.red.red-800": "S:12e0e18cb775f6c99f15347daec26c128051f487,",
       "colors.core.red.red-900": "S:f5d120b78d859e3d40e741bdd014572f9c065eda,",
-      "colors.core.purple.50": "S:f260d8b21233f828c8bd573fc83f5ecd00347921,",
-      "colors.core.purple.100": "S:e5ae927bec49e8652cffb67443d6bf81979c876d,",
-      "colors.core.purple.200": "S:2ee8c2b4499327e92566a858142d941db2222887,",
-      "colors.core.purple.300": "S:f4489d636574820c564366a81d51d9fea60fac32,",
-      "colors.core.purple.400": "S:0b3228ef8f5a546e3e08d9847c29e8ebd8bb80f8,",
-      "colors.core.purple.500": "S:476d5667a27cd7617a7652dc2997b5ee65283ce1,",
-      "colors.core.purple.600": "S:79c652a3232be9f29c25891ad6658f5a40582e0e,",
-      "colors.core.purple.700": "S:03278531be1eda0e7b6ad5320a1c049903efd397,",
-      "colors.core.purple.800": "S:212fda46054b9a87c8a062f9b1d620e83e612331,",
-      "colors.core.purple.900": "S:8d5b8dcb4c0111daf756d34f13ba7800f07d18f4,",
       "colors.core.amber.amber-50": "S:2188e876ed0bd3a7493d9c31f20ab09978f93c87,",
       "colors.core.amber.amber-100": "S:890cedee58458799a08597260f27ad256a3cffb1,",
       "colors.core.amber.amber-200": "S:13a414f124ee27376e7569ea523bab36145948ca,",
@@ -490,7 +480,17 @@
       "colors.semantic.inputs.selected.border-color": "S:737db01e48c2fb7ca1766fc1b1fcdc074818182e,",
       "colors.semantic.inputs.selected.text-color": "S:280f282aeec403d58e5067bc26f6e6ab1e0d112f,",
       "colors.semantic.inputs.selected.icon-color": "S:336a5aa4eb7420d8ea59e1c102b16832fc333089,",
-      "colors.semantic.inputs.selected.background-color": "S:57bae385098f42ff8590217f5c75989679f4da6d,"
+      "colors.semantic.inputs.selected.background-color": "S:57bae385098f42ff8590217f5c75989679f4da6d,",
+      "colors.core.purple.purple-50": "S:f260d8b21233f828c8bd573fc83f5ecd00347921,",
+      "colors.core.purple.purple-100": "S:e5ae927bec49e8652cffb67443d6bf81979c876d,",
+      "colors.core.purple.purple-200": "S:2ee8c2b4499327e92566a858142d941db2222887,",
+      "colors.core.purple.purple-300": "S:f4489d636574820c564366a81d51d9fea60fac32,",
+      "colors.core.purple.purple-400": "S:0b3228ef8f5a546e3e08d9847c29e8ebd8bb80f8,",
+      "colors.core.purple.purple-500": "S:476d5667a27cd7617a7652dc2997b5ee65283ce1,",
+      "colors.core.purple.purple-600": "S:79c652a3232be9f29c25891ad6658f5a40582e0e,",
+      "colors.core.purple.purple-700": "S:03278531be1eda0e7b6ad5320a1c049903efd397,",
+      "colors.core.purple.purple-800": "S:212fda46054b9a87c8a062f9b1d620e83e612331,",
+      "colors.core.purple.purple-900": "S:8d5b8dcb4c0111daf756d34f13ba7800f07d18f4,"
     }
   }
 ]
