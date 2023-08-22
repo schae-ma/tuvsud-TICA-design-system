@@ -8,7 +8,7 @@
     padding: 16px;
     font-size: 18px;
     border-bottom: 1px solid #D0D0D0;
-    font-family:"TUV SUD Pro", Arial;
+    font-family:"TUV SUD Pro Regular", Arial;
 }
 
 .accordion-item--medium {
@@ -23,7 +23,7 @@
     display: flex;
     flex-direction: column;
     border-bottom: 1px solid #D0D0D0;
-    font-family: "TUV SUD Pro", Arial;
+    font-family: "TUV SUD Pro Regular", Arial;
 }
 
 .accordion-item--small {
@@ -38,7 +38,7 @@
     display: flex;
     flex-direction: column;
     border-bottom: 1px solid #D0D0D0;
-    font-family: "TUV SUD Pro", Arial;
+    font-family: "TUV SUD Pro Regular", Arial;
 }
 
 
@@ -46,6 +46,11 @@
     border-top: 2px solid #0072CE;
 }
 
+.accordion-item.open .accordion-item-header{
+    font-family: "TUV SUD Pro Medium", Arial;
+    font-weight: 600;
+
+}
 
 .accordion-item-header{
     cursor:pointer;
@@ -56,5 +61,4 @@
 
 .accordion-item-header span{
     float:right
-
 }
