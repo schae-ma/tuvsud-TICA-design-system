@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "TUV SUD Pro", Arial;
+  font-family: "TUV SUD Pro Regular", Arial;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -11,6 +11,11 @@ code {
 }
 
 @font-face {
-  font-family: "TUV SUD Pro";
+  font-family: "TUV SUD Pro Regular";
   src: url("fonts/TUV SUD Pro-Regular.ttf");
+}
+
+@font-face {
+  font-family: "TUV SUD Pro Medium";
+  src: url("fonts/TUV SUD Pro-Medium.ttf");
 }
