@@ -1,4 +1,4 @@
-import "./accordion.css"
+import "./accordion.scss"
 import {useState} from "react"
 import DeleteIcon from '@mui/icons-material/Delete';
 import ExpandMore from "@mui/icons-material/ExpandMore";

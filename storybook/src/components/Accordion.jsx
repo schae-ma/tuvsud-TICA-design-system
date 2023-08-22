@@ -1,6 +1,6 @@
 import AccordionItem from "./AccordionItem"
 import PropTypes from 'prop-types';
-import "./accordion.css"
+import "./accordion.scss"
 const Accordion = ({size, backgroundColor})=>{
     
     return (
