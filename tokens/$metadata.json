@@ -6,6 +6,7 @@
     "comp/accordion",
     "comp/button",
     "comp/forms",
-    "comp/notifications"
+    "comp/notifications",
+    "jiri test"
   ]
 }

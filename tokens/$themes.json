@@ -492,5 +492,11 @@
       "colors.core.purple.purple-800": "S:212fda46054b9a87c8a062f9b1d620e83e612331,",
       "colors.core.purple.purple-900": "S:8d5b8dcb4c0111daf756d34f13ba7800f07d18f4,"
     }
+  },
+  {
+    "id": "cd33eced7b9d2fe13a6f1dd10d039e02e09cf51f",
+    "name": "jiri test",
+    "selectedTokenSets": {},
+    "$figmaStyleReferences": {}
   }
 ]
