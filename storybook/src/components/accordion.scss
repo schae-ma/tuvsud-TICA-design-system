@@ -59,6 +59,30 @@
     justify-content: space-between;
 }
 
-.accordion-item-header span{
-    float:right
+.accordion-item-header svg{
+    float:right;
+    transition: all 0.2s linear;
 }
+
+.accordion-item-header svg.rotate{
+    transform: rotate(-180deg)
+}
+
+.accordion-item-body{
+    height: 0;
+    overflow: hidden;
+    transition: all .2s ease-in;
+}
+
+.accordion-item-body.active{
+    height: 120px;
+}
+
+/*.accordion-item-body.active p{
+    opacity: 1;
+}
+
+.accordion-item-body p{
+    opacity: 0;
+    transition: opacity .3s linear .18s;
+}*/
