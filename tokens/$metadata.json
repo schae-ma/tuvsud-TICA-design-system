@@ -1,11 +1,15 @@
 {
   "tokenSetOrder": [
-    "core",
+    "base/core",
     "semantic",
     "comp",
     "comp/accordion",
     "comp/button",
     "comp/forms",
-    "comp/notifications"
+    "comp/notifications",
+    "base",
+    "core",
+    "core/dimension",
+    "core/type"
   ]
 }
