@@ -23,5 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /src/fonts
+/storybook-static
 
 build-storybook.log
