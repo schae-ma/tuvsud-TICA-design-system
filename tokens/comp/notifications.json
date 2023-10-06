@@ -46,7 +46,7 @@
       "notifications": {
         "dialog": {
           "spacing-between": {
-            "value": "{spacings.semantic.ui.s.space-between}",
+            "value": "{spacings.semantic.ui.m.space-between}",
             "type": "spacing"
           },
           "padding-top": {
