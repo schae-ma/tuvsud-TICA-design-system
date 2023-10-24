@@ -1,0 +1,25 @@
+# .github/workflows/chromatic.yml
+
+# Workflow name
+name: 'Style Dictionary'
+
+# Event for the workflow
+on: push
+
+# List of jobs
+jobs:
+  style-dictionary:
+    # Operating System
+    runs-on: ubuntu-latest
+    # Job steps
+    steps:
+      - uses: actions/checkout@v1
+      - name: Install dependencies
+        # 👇 Install dependencies with the same package manager used in the project (replace it as needed), e.g. yarn, npm, pnpm
+        run: npm install 
+        # 👇 Adds Chromatic as a step in the workflow
+      - name: Init Style dictionary
+        run: style-dictionary init basic
+      - name: Create scss files
+        # Chromatic GitHub Action options
+        run: style-dictionary build
