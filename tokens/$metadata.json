@@ -1,6 +1,8 @@
 {
   "tokenSetOrder": [
-    "global",
-    "spacing"
+    "core",
+    "light/color",
+    "spacing",
+    "dark/color"
   ]
 }

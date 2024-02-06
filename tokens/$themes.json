@@ -4,9 +4,28 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "spacing": "disabled"
+      "core": "enabled"
     },
     "group": "breakpoint"
+  },
+  {
+    "id": "3e3193f12accc5f94bcabf6440ca969d5ab7ba94",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "enabled",
+      "light/color": "enabled",
+      "spacing": "source"
+    }
+  },
+  {
+    "id": "d92535f1b349890c749288c386b4f2221f8a826a",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "spacing": "source",
+      "dark/color": "source"
+    }
   }
 ]
