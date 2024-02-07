@@ -3,6 +3,7 @@
     "core",
     "core/size",
     "core/space",
+    "core/fontSize",
     "light/color",
     "dark/color",
     "semantic",
