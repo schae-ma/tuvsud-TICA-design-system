@@ -1,0 +1,72 @@
+{
+  "semantic": {
+    "fontSize": {
+      "display": {
+        "xs": {
+          "value": "{fontSize.display.xs}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{fontSize.display.sm}",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "{fontSize.display.md}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{fontSize.display.lg}",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{fontSize.display.xl}",
+          "type": "fontSizes"
+        }
+      },
+      "headline": {
+        "xs": {
+          "value": "{fontSize.headline.xs}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{fontSize.headline.sm}",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "{fontSize.headline.md}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{fontSize.headline.lg}",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{fontSize.display.xl}",
+          "type": "fontSizes"
+        }
+      },
+      "body": {
+        "xs": {
+          "value": "{fontSize.body.xs}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{fontSize.body.sm}",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "{fontSize.body.md}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{fontSize.body.lg}",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{fontSize.body.xl}",
+          "type": "fontSizes"
+        }
+      }
+    }
+  }
+}
