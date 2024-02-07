@@ -1,0 +1,66 @@
+{
+  "semantic": {
+    "size": {
+      "radius": {
+        "xs": {
+          "value": "{core.size.radius.xs}",
+          "type": "borderRadius"
+        },
+        "sm": {
+          "value": "{core.size.radius.sm}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{core.size.radius.md}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{core.size.radius.lg}",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "{core.size.radius.xl}",
+          "type": "borderRadius"
+        },
+        "2xl": {
+          "value": "{core.size.radius.2xl}",
+          "type": "borderRadius"
+        },
+        "3xl": {
+          "value": "{core.size.radius.3xl}",
+          "type": "borderRadius"
+        }
+      },
+      "width": {
+        "xs": {
+          "value": "{core.size.width.xs}",
+          "type": "borderWidth"
+        },
+        "sm": {
+          "value": "{core.size.width.sm}",
+          "type": "borderWidth"
+        },
+        "md": {
+          "value": "{core.size.width.md}",
+          "type": "borderWidth"
+        },
+        "lg": {
+          "value": "{core.size.width.lg}",
+          "type": "borderWidth"
+        },
+        "xl": {
+          "value": "{core.size.width.xl}",
+          "type": "borderWidth"
+        },
+        "2xl": {
+          "value": "{core.size.width.2xl}",
+          "type": "borderWidth"
+        },
+        "3xl": {
+          "value": "{core.size.width.3xl}",
+          "type": "borderWidth"
+        }
+      }
+    }
+  }
+}

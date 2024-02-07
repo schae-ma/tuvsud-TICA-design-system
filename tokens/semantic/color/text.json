@@ -1,0 +1,24 @@
+{
+  "semantic": {
+    "color": {
+      "text": {
+        "default": {
+          "value": "{core.color.neutral.neutral-950}",
+          "type": "color"
+        },
+        "inverted": {
+          "value": "{core.color.neutral.neutral-0}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core.color.blue.blue-700}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.color.neutralA.neutral-400A}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

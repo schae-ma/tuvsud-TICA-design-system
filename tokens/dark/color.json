@@ -381,43 +381,43 @@
       },
       "red": {
         "red-100": {
-          "value": "#FFECEB",
+          "value": "#42221F",
           "type": "color"
         },
         "red-200": {
-          "value": "#FFD5D2",
-          "type": "color"
-        },
-        "red-300": {
-          "value": "#FD9891",
-          "type": "color"
-        },
-        "red-400": {
-          "value": "#F87168",
-          "type": "color"
-        },
-        "red-500": {
-          "value": "#F15B50",
-          "type": "color"
-        },
-        "red-600": {
-          "value": "#E2483D",
-          "type": "color"
-        },
-        "red-700": {
-          "value": "#C9372C",
-          "type": "color"
-        },
-        "red-800": {
-          "value": "#AE2E24",
-          "type": "color"
-        },
-        "red-900": {
           "value": "#5D1F1A",
           "type": "color"
         },
+        "red-300": {
+          "value": "#AE2E24",
+          "type": "color"
+        },
+        "red-400": {
+          "value": "#C9372C",
+          "type": "color"
+        },
+        "red-500": {
+          "value": "#E2483D",
+          "type": "color"
+        },
+        "red-600": {
+          "value": "#F15B50",
+          "type": "color"
+        },
+        "red-700": {
+          "value": "#F87168",
+          "type": "color"
+        },
+        "red-800": {
+          "value": "#FD9891",
+          "type": "color"
+        },
+        "red-900": {
+          "value": "#FFD5D2",
+          "type": "color"
+        },
         "red-1000": {
-          "value": "#42221F",
+          "value": "#FFECEB",
           "type": "color"
         }
       },

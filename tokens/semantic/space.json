@@ -1,0 +1,34 @@
+{
+  "semantic": {
+    "space": {
+      "xs": {
+        "value": "{spacing.component.xs}",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "{spacing.component.sm}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{spacing.component.md}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{spacing.component.lg}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{spacing.component.xl}",
+        "type": "spacing"
+      },
+      "2xl": {
+        "value": "{spacing.component.2xl}",
+        "type": "spacing"
+      },
+      "3xl": {
+        "value": "{spacing.component.3xl}",
+        "type": "spacing"
+      }
+    }
+  }
+}
