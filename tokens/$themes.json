@@ -4,8 +4,7 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "core/fontSize": "disabled"
+      "core": "enabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:292:1344",

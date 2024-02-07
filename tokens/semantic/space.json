@@ -2,31 +2,31 @@
   "semantic": {
     "space": {
       "xs": {
-        "value": "{spacing.component.xs}",
+        "value": "{core.space.component.xs}",
         "type": "spacing"
       },
       "sm": {
-        "value": "{spacing.component.sm}",
+        "value": "{core.space.component.sm}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacing.component.md}",
+        "value": "{core.space.component.md}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacing.component.lg}",
+        "value": "{core.space.component.lg}",
         "type": "spacing"
       },
       "xl": {
-        "value": "{spacing.component.xl}",
+        "value": "{core.space.component.xl}",
         "type": "spacing"
       },
       "2xl": {
-        "value": "{spacing.component.2xl}",
+        "value": "{core.space.component.2xl}",
         "type": "spacing"
       },
       "3xl": {
-        "value": "{spacing.component.3xl}",
+        "value": "{core.space.component.3xl}",
         "type": "spacing"
       }
     }
