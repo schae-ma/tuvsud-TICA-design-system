@@ -5,13 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "enabled",
-      "semantic": "disabled",
-      "semantic/color": "disabled",
-      "semantic/color/background": "disabled",
-      "semantic/color/text": "disabled",
-      "semantic/space": "disabled",
-      "core/size": "disabled",
-      "semantic/size": "disabled"
+      "core/space": "disabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:292:1344",
@@ -25,14 +19,14 @@
     "selectedTokenSets": {
       "core": "source",
       "light/color": "source",
-      "spacing": "source",
       "semantic/space": "enabled",
       "semantic": "enabled",
       "semantic/color/text": "enabled",
       "semantic/color/background": "enabled",
       "semantic/color": "enabled",
       "core/size": "source",
-      "semantic/size": "enabled"
+      "semantic/size": "enabled",
+      "core/space": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:292:1345",
     "$figmaModeId": "292:1",
@@ -88,7 +82,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "spacing": "source",
       "dark/color": "source",
       "semantic": "enabled",
       "semantic/color": "enabled",
@@ -96,7 +89,8 @@
       "semantic/color/text": "enabled",
       "semantic/space": "enabled",
       "core/size": "source",
-      "semantic/size": "enabled"
+      "semantic/size": "enabled",
+      "core/space": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:292:1345",
     "$figmaModeId": "292:2",

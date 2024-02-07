@@ -2,8 +2,8 @@
   "tokenSetOrder": [
     "core",
     "core/size",
+    "core/space",
     "light/color",
-    "spacing",
     "dark/color",
     "semantic",
     "semantic/color",
