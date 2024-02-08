@@ -13,6 +13,10 @@
         "disabled": {
           "value": "{core.color.neutralA.neutral-400A}",
           "type": "color"
+        },
+        "selected": {
+          "value": "{core.color.blue.blue-700}",
+          "type": "color"
         }
       }
     }
