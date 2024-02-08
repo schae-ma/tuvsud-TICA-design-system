@@ -4,7 +4,8 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "semantic/color/border": "disabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:292:1344",
@@ -27,7 +28,8 @@
       "semantic/size": "enabled",
       "core/space": "source",
       "semantic/fontSize": "enabled",
-      "core/fontSize": "source"
+      "core/fontSize": "source",
+      "semantic/color/border": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:292:1345",
     "$figmaModeId": "292:1",
@@ -93,7 +95,8 @@
       "semantic/size": "enabled",
       "core/space": "source",
       "semantic/fontSize": "enabled",
-      "core/fontSize": "source"
+      "core/fontSize": "source",
+      "semantic/color/border": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:292:1345",
     "$figmaModeId": "292:2",

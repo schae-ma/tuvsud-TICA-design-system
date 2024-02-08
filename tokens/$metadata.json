@@ -10,6 +10,7 @@
     "semantic/color",
     "semantic/color/background",
     "semantic/color/text",
+    "semantic/color/border",
     "semantic/space",
     "semantic/size",
     "semantic/fontSize"
