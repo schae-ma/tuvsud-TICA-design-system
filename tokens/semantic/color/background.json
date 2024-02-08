@@ -22,7 +22,7 @@
         },
         "gray": {
           "disabled": {
-            "value": "{core.color.neutralA.neutral-400A}",
+            "value": "{core.color.neutralA.neutral-100A}",
             "type": "color"
           },
           "hovered": {
