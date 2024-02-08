@@ -1,7 +1,7 @@
 {
   "semantic": {
     "color": {
-      "border": {
+      "icon": {
         "default": {
           "value": "{core.color.neutral.neutral-950}",
           "type": "color"
