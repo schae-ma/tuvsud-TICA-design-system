@@ -5,7 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "enabled",
-      "semantic/color/border": "disabled"
+      "semantic/color/icon": "disabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:292:1344",
@@ -29,7 +29,8 @@
       "core/space": "source",
       "semantic/fontSize": "enabled",
       "core/fontSize": "source",
-      "semantic/color/border": "enabled"
+      "semantic/color/border": "enabled",
+      "semantic/color/icon": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:292:1345",
     "$figmaModeId": "292:1",
@@ -55,6 +56,10 @@
       "semantic.space.xl": "3eb548d8d3630c26f5887d421f281b6123a5e73f",
       "semantic.space.2xl": "23132173e3369eb35da1e56781d9572697f111fe",
       "semantic.space.3xl": "d24be96b7a78bc56eca5b665f652c24d57e7cb09",
+      "semantic.color.border.default": "fafe277982541539a110e9517cb689235e13f2e2",
+      "semantic.color.border.inverted": "5c51ffd54399c20e912588dc371eb2b4a8e24508",
+      "semantic.color.border.disabled": "5fd13a94adeddf6221112f95a28d429c21fb4aa1",
+      "semantic.color.border.focussed": "fbec57f4a3be6a4002ab76479b58eb860f2cd7ee",
       "semantic.color.text.default": "e4b77a3a738463e5927a15ee86cb7403a051ebe1",
       "semantic.color.text.inverted": "780a321e3b083c1bf252a7116eb52654e6d66c62",
       "semantic.color.text.selected": "f232fd7aa962509f0ec1517725d8cc1cad974b5b",
@@ -96,7 +101,8 @@
       "core/space": "source",
       "semantic/fontSize": "enabled",
       "core/fontSize": "source",
-      "semantic/color/border": "enabled"
+      "semantic/color/border": "enabled",
+      "semantic/color/icon": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:292:1345",
     "$figmaModeId": "292:2",
@@ -122,6 +128,10 @@
       "semantic.space.xl": "3eb548d8d3630c26f5887d421f281b6123a5e73f",
       "semantic.space.2xl": "23132173e3369eb35da1e56781d9572697f111fe",
       "semantic.space.3xl": "d24be96b7a78bc56eca5b665f652c24d57e7cb09",
+      "semantic.color.border.default": "fafe277982541539a110e9517cb689235e13f2e2",
+      "semantic.color.border.inverted": "5c51ffd54399c20e912588dc371eb2b4a8e24508",
+      "semantic.color.border.disabled": "5fd13a94adeddf6221112f95a28d429c21fb4aa1",
+      "semantic.color.border.focussed": "fbec57f4a3be6a4002ab76479b58eb860f2cd7ee",
       "semantic.color.text.default": "e4b77a3a738463e5927a15ee86cb7403a051ebe1",
       "semantic.color.text.inverted": "780a321e3b083c1bf252a7116eb52654e6d66c62",
       "semantic.color.text.selected": "f232fd7aa962509f0ec1517725d8cc1cad974b5b",
