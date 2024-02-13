@@ -1,9 +1,12 @@
 {
   "tokenSetOrder": [
     "core",
-    "core/size",
-    "core/space",
-    "core/fontSize",
+    "core/dimension/size",
+    "core/dimension/space",
+    "core/font/lineHeight",
+    "core/font/fontWeight",
+    "core/font/fontFamily",
+    "core/font/fontSize",
     "light/color",
     "dark/color",
     "semantic",
@@ -12,8 +15,8 @@
     "semantic/color/text",
     "semantic/color/border",
     "semantic/color/icon",
-    "semantic/space",
-    "semantic/size",
-    "semantic/fontSize"
+    "semantic/dimension/space",
+    "semantic/dimension/size",
+    "semantic/typography"
   ]
 }
