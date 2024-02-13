@@ -4,16 +4,7 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "core/dimension/size": "disabled",
-      "core/dimension/space": "disabled",
-      "core/font/lineHeight": "disabled",
-      "core/font/fontWeight": "disabled",
-      "core/font/fontFamily": "disabled",
-      "core/font/fontSize": "disabled",
-      "semantic/dimension/space": "disabled",
-      "semantic/dimension/size": "disabled",
-      "semantic/typography": "disabled"
+      "core": "enabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:320:2308",

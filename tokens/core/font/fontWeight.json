@@ -1,1 +1,40 @@
-{}
+{
+  "core": {
+    "font": {
+      "fontWeight": {
+        "light": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "regular": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "medium": {
+          "value": "Medium",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "light-italic": {
+          "value": "Light Italic",
+          "type": "fontWeights"
+        },
+        "regular-italic": {
+          "value": "Regular Italic",
+          "type": "fontWeights"
+        },
+        "medium-italic": {
+          "value": "Medium Italic",
+          "type": "fontWeights"
+        },
+        "bold-italic": {
+          "value": "Bold Italic",
+          "type": "fontWeights"
+        }
+      }
+    }
+  }
+}
