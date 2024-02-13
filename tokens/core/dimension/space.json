@@ -3,61 +3,61 @@
     "space": {
       "pattern": {
         "xs": {
-          "value": "8",
+          "value": "0.5rem",
           "type": "spacing"
         },
         "sm": {
-          "value": "16",
+          "value": "1rem",
           "type": "spacing"
         },
         "md": {
-          "value": "24",
+          "value": "1.5rem",
           "type": "spacing"
         },
         "lg": {
-          "value": "32",
+          "value": "2rem",
           "type": "spacing"
         },
         "xl": {
-          "value": "40",
+          "value": "2.5rem",
           "type": "spacing"
         },
         "2xl": {
-          "value": "48",
+          "value": "3rem",
           "type": "spacing"
         },
         "3xl": {
-          "value": "56",
+          "value": "3.5rem",
           "type": "spacing"
         }
       },
       "ui": {
         "xs": {
-          "value": "32",
+          "value": "2rem",
           "type": "spacing"
         },
         "sm": {
-          "value": "48",
+          "value": "3rem",
           "type": "spacing"
         },
         "md": {
-          "value": "64",
+          "value": "4rem",
           "type": "spacing"
         },
         "lg": {
-          "value": "80",
+          "value": "5rem",
           "type": "spacing"
         },
         "xl": {
-          "value": "96",
+          "value": "6rem",
           "type": "spacing"
         },
         "2xl": {
-          "value": "112",
+          "value": "7rem",
           "type": "spacing"
         },
         "3xl": {
-          "value": "128",
+          "value": "8rem",
           "type": "spacing"
         }
       },
@@ -67,27 +67,27 @@
           "type": "spacing"
         },
         "sm": {
-          "value": "4",
+          "value": "0.25rem",
           "type": "spacing"
         },
         "md": {
-          "value": "8",
+          "value": "0.5rem",
           "type": "spacing"
         },
         "lg": {
-          "value": "12",
+          "value": "0.75rem",
           "type": "spacing"
         },
         "xl": {
-          "value": "16",
+          "value": "1rem",
           "type": "spacing"
         },
         "2xl": {
-          "value": "20",
+          "value": "1.25rem",
           "type": "spacing"
         },
         "3xl": {
-          "value": "24",
+          "value": "1.5rem",
           "type": "spacing"
         }
       }
