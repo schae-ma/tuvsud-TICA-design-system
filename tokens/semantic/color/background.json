@@ -96,11 +96,11 @@
             "type": "color"
           },
           "danger": {
-            "hovered": {
+            "pressed": {
               "value": "{core.color.red.red-200}",
               "type": "color"
             },
-            "": {
+            "hovered": {
               "value": "{core.color.red.red-100}",
               "type": "color"
             }
