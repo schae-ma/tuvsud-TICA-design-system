@@ -17,7 +17,23 @@
     "$figmaStyleReferences": {
       "semantic.elevation.shadow.raised": "S:a23826d9409849add127748f0fdc1d9fb119f114,",
       "semantic.elevation.shadow.overlay": "S:881ffe8870e595a9f10c121bf29fa173d6ea6344,",
-      "semantic.elevation.shadow.overflow": "S:bfddd2e01c0bb0939327a897cb6a921c021936e8,"
+      "semantic.elevation.shadow.overflow": "S:bfddd2e01c0bb0939327a897cb6a921c021936e8,",
+      "semantic.typography.headline.headline-100": "S:5e7e5cf6d28ad03093acdf2df6328b87b6aadbd3,",
+      "semantic.typography.headline.headline-200": "S:976bfa43b7272c3f4330ef4f2d3484e29e799b27,",
+      "semantic.typography.headline.headline-300": "S:dfb2228e09b5fb53b41ebd726f038fdc7a62781f,",
+      "semantic.typography.headline.headline-400": "S:04aa23b7711db35d2126e1e36108ceac83cc4173,",
+      "semantic.typography.headline.headline-500": "S:8a1e6c2a6dd5960dc0b3218f256960cc23bea9e8,",
+      "semantic.typography.headline.headline-600": "S:f2c09ff97f088f8ac3084e7f44e0b2d865e95e6f,",
+      "semantic.typography.headline.headline-700": "S:18a997eb6ba4c939e36e9b62757724cdd92c1a01,",
+      "semantic.typography.headline.headline-800": "S:dfc8bfa653e75fe76b480e0d5b1faa37eed4d70f,",
+      "semantic.typography.headline.headline-900": "S:f613ae8be84213fd1385bd3f961711a89f2f5b34,",
+      "semantic.typography.body.body-100": "S:e43344af883e464b688ef106d8271915d582708b,",
+      "semantic.typography.body.body-200": "S:888aa6739545bd3637f76d12989c9dc60416739f,",
+      "semantic.typography.body.body-300": "S:6165c2751f78053ffb0865029a22c65562219b26,",
+      "semantic.typography.UI.UI-100": "S:117c0febfa049790a573fd32954b27ff70ab7390,",
+      "semantic.typography.UI.UI-100b": "S:db35d9cb033c0d75d9e3c6d1a29e7cfe556aaee0,",
+      "semantic.typography.UI.UI-200": "S:3ac9579b0a1a8887a9a2d3e305d1bb0b13e71ceb,",
+      "semantic.typography.UI.UI-200b": "S:e4c0220f95801dbd7213752c6c9e65e5f00f64d0,"
     },
     "selectedTokenSets": {
       "core": "source",
