@@ -17,6 +17,14 @@
         "disabled": {
           "value": "{core.color.neutralA.neutral-250A}",
           "type": "color"
+        },
+        "danger": {
+          "value": "{core.color.red.red-800}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{core.color.green.green-800}",
+          "type": "color"
         }
       }
     }
