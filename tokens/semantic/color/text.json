@@ -25,6 +25,12 @@
         "success": {
           "value": "{core.color.green.green-800}",
           "type": "color"
+        },
+        "accent": {
+          "red": {
+            "value": "{core.color.red.red-700}",
+            "type": "color"
+          }
         }
       }
     }
