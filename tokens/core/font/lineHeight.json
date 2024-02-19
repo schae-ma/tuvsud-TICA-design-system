@@ -1,1 +1,46 @@
-{}
+{
+  "core": {
+    "font": {
+      "lineHeight-100": {
+        "value": "0.75rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-200": {
+        "value": "0.875rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-300": {
+        "value": "1rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-400": {
+        "value": "1.25rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-500": {
+        "value": "1.5rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-600": {
+        "value": "1.75rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-700": {
+        "value": "2rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-800": {
+        "value": "2.25rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-900": {
+        "value": "3rem",
+        "type": "lineHeights"
+      },
+      "lineHeight-1000": {
+        "value": "3.5rem",
+        "type": "lineHeights"
+      }
+    }
+  }
+}

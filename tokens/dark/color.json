@@ -462,6 +462,28 @@
           "value": "#FFF7D6",
           "type": "color"
         }
+      },
+      "shadow": {
+        "shadow-100": {
+          "value": "rgba(0,0,0,0)",
+          "type": "color"
+        },
+        "shadow-200": {
+          "value": "rgba(3,4,4,0.36)",
+          "type": "color"
+        },
+        "shadow-300": {
+          "value": "rgba(3,4,4,0.5)",
+          "type": "color"
+        },
+        "shadow-400": {
+          "value": "rgba(3,4,4,0.56)",
+          "type": "color"
+        },
+        "shadow-500": {
+          "value": "#39424A",
+          "type": "color"
+        }
       }
     }
   }

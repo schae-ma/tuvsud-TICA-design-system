@@ -450,6 +450,28 @@
           "value": "#332E1B",
           "type": "color"
         }
+      },
+      "shadow": {
+        "shadow-100": {
+          "value": "rgba(9,30,66,0.12)",
+          "type": "color"
+        },
+        "shadow-200": {
+          "value": "rgba(9,30,66,0.15)",
+          "type": "color"
+        },
+        "shadow-300": {
+          "value": "rgba(9,30,66,0.16)",
+          "type": "color"
+        },
+        "shadow-400": {
+          "value": "rgba(9,30,66,0.25)",
+          "type": "color"
+        },
+        "shadow-500": {
+          "value": "rgba(9,30,66,0.31)",
+          "type": "color"
+        }
       }
     }
   }

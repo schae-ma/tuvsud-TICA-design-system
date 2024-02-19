@@ -1,0 +1,20 @@
+{
+  "semantic": {
+    "elevation": {
+      "shadow": {
+        "raised": {
+          "value": "{core.elevation.shadow-100}",
+          "type": "boxShadow"
+        },
+        "overlay": {
+          "value": "{core.elevation.shadow-200}",
+          "type": "boxShadow"
+        },
+        "overflow": {
+          "value": "{core.elevation.shadow-300}",
+          "type": "boxShadow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "core": {
+    "elevation": {
+      "shadow-100": {
+        "value": [
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-100}",
+            "blur": "{core.dimension.direction-100}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-100}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-200}",
+            "blur": "{core.dimension.direction-200}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-300}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-100}",
+            "blur": "{core.dimension.direction-200}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-300}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "shadow-200": {
+        "value": [
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-100}",
+            "blur": "{core.dimension.direction-100}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-500}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-300}",
+            "blur": "{core.dimension.direction-400}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-200}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-100}",
+            "blur": "{core.dimension.direction-200}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-300}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "shadow-300": {
+        "value": [
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-100}",
+            "blur": "{core.dimension.direction-400}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-400}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{core.dimension.direction-100}",
+            "y": "{core.dimension.direction-100}",
+            "blur": "{core.dimension.direction-200}",
+            "spread": "0",
+            "color": "{core.color.shadow.shadow-300}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    }
+  }
+}

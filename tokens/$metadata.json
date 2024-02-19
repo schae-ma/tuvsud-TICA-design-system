@@ -3,10 +3,13 @@
     "core",
     "core/dimension/size",
     "core/dimension/space",
+    "core/dimension/direction",
     "core/font/lineHeight",
     "core/font/fontWeight",
     "core/font/fontFamily",
     "core/font/fontSize",
+    "core/light/elevation",
+    "core/dark/elevation",
     "light/color",
     "dark/color",
     "semantic",
@@ -17,6 +20,7 @@
     "semantic/color/icon",
     "semantic/dimension/space",
     "semantic/dimension/size",
-    "semantic/typography"
+    "semantic/typography",
+    "semantic/elevation/shadow"
   ]
 }

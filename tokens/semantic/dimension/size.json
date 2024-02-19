@@ -3,61 +3,61 @@
     "size": {
       "radius": {
         "xs": {
-          "value": "{core.size.radius.xs}",
+          "value": "{core.dimension.size-100}",
           "type": "borderRadius"
         },
         "sm": {
-          "value": "{core.size.radius.sm}",
+          "value": "{core.dimension.size-200}",
           "type": "borderRadius"
         },
         "md": {
-          "value": "{core.size.radius.md}",
+          "value": "{core.dimension.size-300}",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "{core.size.radius.lg}",
+          "value": "{core.dimension.size-400}",
           "type": "borderRadius"
         },
         "xl": {
-          "value": "{core.size.radius.xl}",
+          "value": "{core.dimension.size-500}",
           "type": "borderRadius"
         },
         "2xl": {
-          "value": "{core.size.radius.2xl}",
+          "value": "{core.dimension.size-600}",
           "type": "borderRadius"
         },
         "3xl": {
-          "value": "{core.size.radius.3xl}",
+          "value": "{core.dimension.size-700}",
           "type": "borderRadius"
         }
       },
       "width": {
         "xs": {
-          "value": "{core.size.width.xs}",
+          "value": "{core.dimension.size-100}",
           "type": "borderWidth"
         },
         "sm": {
-          "value": "{core.size.width.sm}",
+          "value": "{core.dimension.size-200}",
           "type": "borderWidth"
         },
         "md": {
-          "value": "{core.size.width.md}",
+          "value": "{core.dimension.size-300}",
           "type": "borderWidth"
         },
         "lg": {
-          "value": "{core.size.width.lg}",
+          "value": "{core.dimension.size-400}",
           "type": "borderWidth"
         },
         "xl": {
-          "value": "{core.size.width.xl}",
+          "value": "{core.dimension.size-500}",
           "type": "borderWidth"
         },
         "2xl": {
-          "value": "{core.size.width.2xl}",
+          "value": "{core.dimension.size-600}",
           "type": "borderWidth"
         },
         "3xl": {
-          "value": "{core.size.width.3xl}",
+          "value": "{core.dimension.size-700}",
           "type": "borderWidth"
         }
       }

@@ -4,7 +4,11 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "core/dimension/direction": "disabled",
+      "core/light/elevation": "disabled",
+      "core/dark/elevation": "disabled",
+      "semantic/elevation/shadow": "disabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:320:2308",
@@ -32,7 +36,10 @@
       "core/font/fontSize": "source",
       "semantic/dimension/space": "enabled",
       "semantic/dimension/size": "enabled",
-      "semantic/typography": "enabled"
+      "semantic/typography": "enabled",
+      "core/dimension/direction": "source",
+      "core/light/elevation": "source",
+      "semantic/elevation/shadow": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:320:2259",
     "$figmaModeId": "320:3",
@@ -110,7 +117,10 @@
       "core/font/fontSize": "source",
       "semantic/dimension/space": "enabled",
       "semantic/dimension/size": "enabled",
-      "semantic/typography": "enabled"
+      "semantic/typography": "enabled",
+      "core/dimension/direction": "source",
+      "core/dark/elevation": "source",
+      "semantic/elevation/shadow": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:320:2259",
     "$figmaModeId": "320:4",

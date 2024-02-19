@@ -1,95 +1,69 @@
 {
   "core": {
-    "space": {
-      "pattern": {
-        "xs": {
-          "value": "0.5rem",
-          "type": "spacing"
-        },
-        "sm": {
-          "value": "1rem",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "1.5rem",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "2rem",
-          "type": "spacing"
-        },
-        "xl": {
-          "value": "2.5rem",
-          "type": "spacing"
-        },
-        "2xl": {
-          "value": "3rem",
-          "type": "spacing"
-        },
-        "3xl": {
-          "value": "3.5rem",
-          "type": "spacing"
-        }
+    "dimension": {
+      "space-100": {
+        "value": "0rem",
+        "type": "spacing"
       },
-      "ui": {
-        "xs": {
-          "value": "2rem",
-          "type": "spacing"
-        },
-        "sm": {
-          "value": "3rem",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "4rem",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "5rem",
-          "type": "spacing"
-        },
-        "xl": {
-          "value": "6rem",
-          "type": "spacing"
-        },
-        "2xl": {
-          "value": "7rem",
-          "type": "spacing"
-        },
-        "3xl": {
-          "value": "8rem",
-          "type": "spacing"
-        }
+      "space-200": {
+        "value": "0.25rem",
+        "type": "spacing"
       },
-      "component": {
-        "xs": {
-          "value": "0",
-          "type": "spacing"
-        },
-        "sm": {
-          "value": "0.25rem",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "0.5rem",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "0.75rem",
-          "type": "spacing"
-        },
-        "xl": {
-          "value": "1rem",
-          "type": "spacing"
-        },
-        "2xl": {
-          "value": "1.25rem",
-          "type": "spacing"
-        },
-        "3xl": {
-          "value": "1.5rem",
-          "type": "spacing"
-        }
+      "space-300": {
+        "value": "0.5rem",
+        "type": "spacing"
+      },
+      "space-400": {
+        "value": "0.75rem",
+        "type": "spacing"
+      },
+      "space-500": {
+        "value": "1rem",
+        "type": "spacing"
+      },
+      "space-600": {
+        "value": "1.25rem",
+        "type": "spacing"
+      },
+      "space-700": {
+        "value": "1.5rem",
+        "type": "spacing"
+      },
+      "space-800": {
+        "value": "2rem",
+        "type": "spacing"
+      },
+      "space-900": {
+        "value": "2.5rem",
+        "type": "spacing"
+      },
+      "space-1000": {
+        "value": "3rem",
+        "type": "spacing"
+      },
+      "space-1100": {
+        "value": "3.5rem",
+        "type": "spacing"
+      },
+      "space-1200": {
+        "value": "4rem",
+        "type": "spacing"
+      },
+      "space-1300": {
+        "value": "5rem",
+        "type": "spacing"
+      },
+      "space-1400": {
+        "value": "6rem",
+        "type": "spacing"
+      },
+      "space-1500": {
+        "value": "7rem",
+        "type": "spacing"
+      },
+      "space-1600": {
+        "value": "8rem",
+        "type": "spacing"
       }
     }
   }
