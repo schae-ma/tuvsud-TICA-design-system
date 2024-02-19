@@ -1,93 +1,65 @@
 {
   "core": {
-    "fontSize": {
-      "display": {
-        "xs": {
-          "value": "3.5rem",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "4.25rem",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "5.125rem",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "6.25rem",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "7.625rem",
-          "type": "fontSizes"
-        }
+    "font": {
+      "fontSize-100": {
+        "value": "0.75rem",
+        "type": "fontSizes"
       },
-      "headline": {
-        "xs": {
-          "value": "1.9375rem",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "2.375rem",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "2.875rem",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "3.5rem",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "4.25rem",
-          "type": "fontSizes"
-        }
+      "fontSize-200": {
+        "value": "0.875rem",
+        "type": "fontSizes"
       },
-      "title": {
-        "xs": {
-          "value": "1.125rem",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "1.3125rem",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "1.625rem",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "1.9375rem",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "2.375rem",
-          "type": "fontSizes"
-        }
+      "fontSize-300": {
+        "value": "1rem",
+        "type": "fontSizes"
       },
-      "body": {
-        "xs": {
-          "value": "0.75rem",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "0.875rem",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "1.125rem",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "1.3125rem",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "1.625rem",
-          "type": "fontSizes"
-        }
+      "fontSize-400": {
+        "value": "1.125rem",
+        "type": "fontSizes"
+      },
+      "fontSize-500": {
+        "value": "1.25rem",
+        "type": "fontSizes"
+      },
+      "fontSize-600": {
+        "value": "1.5rem",
+        "type": "fontSizes"
+      },
+      "fontSize-700": {
+        "value": "1.75rem",
+        "type": "fontSizes"
+      },
+      "fontSize-800": {
+        "value": "2rem",
+        "type": "fontSizes"
+      },
+      "fontSize-900": {
+        "value": "2.5rem",
+        "type": "fontSizes"
+      },
+      "fontSize-1000": {
+        "value": "3rem",
+        "type": "fontSizes"
+      },
+      "fontSize-1100": {
+        "value": "3.5rem",
+        "type": "fontSizes"
+      },
+      "fontSize-1200": {
+        "value": "4.25rem",
+        "type": "fontSizes"
+      },
+      "fontSize-1300": {
+        "value": "5.125rem",
+        "type": "fontSizes"
+      },
+      "fontSize-1400": {
+        "value": "6.25rem",
+        "type": "fontSizes"
+      },
+      "fontSize-1500": {
+        "value": "7.625rem",
+        "type": "fontSizes"
       }
     }
   }

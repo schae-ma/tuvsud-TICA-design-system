@@ -1,1 +1,156 @@
-{}
+{
+  "semantic": {
+    "typography": {
+      "headline": {
+        "headline-100": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold}, {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-100}",
+            "lineHeight": "{core.font.lineHeight-300}"
+          },
+          "type": "typography"
+        },
+        "headline-200": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold}, {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-200}",
+            "lineHeight": "{core.font.lineHeight-300}"
+          },
+          "type": "typography"
+        },
+        "headline-300": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold}, {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-300}",
+            "lineHeight": "{core.font.lineHeight-400}"
+          },
+          "type": "typography"
+        },
+        "headline-400": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-500}",
+            "lineHeight": "{core.font.lineHeight-500}"
+          },
+          "type": "typography"
+        },
+        "headline-500": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-600}",
+            "lineHeight": "{core.font.lineHeight-600}"
+          },
+          "type": "typography"
+        },
+        "headline-600": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-700}",
+            "lineHeight": "{core.font.lineHeight-700}"
+          },
+          "type": "typography"
+        },
+        "headline-700": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-800}",
+            "lineHeight": "{core.font.lineHeight-800}"
+          },
+          "type": "typography"
+        },
+        "headline-800": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-900}",
+            "lineHeight": "{core.font.lineHeight-900}"
+          },
+          "type": "typography"
+        },
+        "headline-900": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-1000}",
+            "lineHeight": "{core.font.lineHeight-1000}"
+          },
+          "type": "typography"
+        }
+      },
+      "body": {
+        "body-100": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.regular} , {core.font.fontWeight.regular-italic}",
+            "fontSize": "{core.font.fontSize-100}",
+            "lineHeight": "{core.font.lineHeight-300}"
+          },
+          "type": "typography"
+        },
+        "body-200": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.regular} , {core.font.fontWeight.regular-italic}",
+            "fontSize": "{core.font.fontSize-200}",
+            "lineHeight": "{core.font.lineHeight-400}"
+          },
+          "type": "typography"
+        },
+        "body-300": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.regular} , {core.font.fontWeight.regular-italic}",
+            "fontSize": "{core.font.fontSize-300}",
+            "lineHeight": "{core.font.lineHeight-500}"
+          },
+          "type": "typography"
+        }
+      },
+      "UI": {
+        "UI-100": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.medium} , {core.font.fontWeight.medium-italic}",
+            "fontSize": "{core.font.fontSize-100}",
+            "lineHeight": "{core.font.lineHeight-100}"
+          },
+          "type": "typography"
+        },
+        "UI-100b": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-100}",
+            "lineHeight": "{core.font.lineHeight-100}"
+          },
+          "type": "typography"
+        },
+        "UI-200": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.medium} , {core.font.fontWeight.medium-italic}",
+            "fontSize": "{core.font.fontSize-200}",
+            "lineHeight": "{core.font.lineHeight-200}"
+          },
+          "type": "typography"
+        },
+        "UI-200b": {
+          "value": {
+            "fontFamily": "{core.font.fontFamily.default} , {core.font.fontFamily.fallback}",
+            "fontWeight": "{core.font.fontWeight.bold} , {core.font.fontWeight.bold-italic}",
+            "fontSize": "{core.font.fontSize-200}",
+            "lineHeight": "{core.font.lineHeight-200}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
