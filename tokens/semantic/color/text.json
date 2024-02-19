@@ -15,7 +15,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.color.neutralA.neutral-400A}",
+          "value": "{core.color.neutralA.neutral-250A}",
           "type": "color"
         }
       }

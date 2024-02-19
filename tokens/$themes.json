@@ -4,8 +4,7 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "core/elevation": "disabled"
+      "core": "enabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:532:1541",
@@ -103,9 +102,14 @@
       "semantic.color.icon.inverted": "e3511079bb2b6d3552e455603d7f4e5b0dfd4543",
       "semantic.color.icon.disabled": "419063795634be1061f371212e5d16679ab251b5",
       "semantic.color.icon.selected": "54b99e01feefd565847c9bafab283cb65a1f88ee",
-      "semantic.color.border.default": "d6870c2ca8cfd9e1eacbd32bd6b0c0beed127edb",
+      "semantic.color.border.blue": "d6870c2ca8cfd9e1eacbd32bd6b0c0beed127edb",
       "semantic.color.border.focussed": "11aa42b2ae9e4a8c470f9abeb6b1fc43932e6963",
       "semantic.color.border.disabled": "17c8c640b53732c71778b96b44e0f08f61db031c",
+      "semantic.color.border.danger": "834712dab62e2b00fc333dcfcfeabb3a109b176a",
+      "semantic.color.border.default": "504ba17b099fbc3897177ecf2cad1fa5e40ecf03",
+      "semantic.color.border.input.default": "5e70a321bc414570b76a7cde3f2be5e992dcb05a",
+      "semantic.color.border.input.pressed": "819e0324f536d745ca38fa1a8750683fc75f7d2f",
+      "semantic.color.border.input.disabled": "a2d53f5f270cb58aaaec464c6f654fef0996b496",
       "semantic.color.text.default": "ebbec7810fe64be85fcf5f5479092bbddbabf15a",
       "semantic.color.text.inverted": "d598d82e1330ec9e625612de528b4f804906970e",
       "semantic.color.text.selected": "a3033724811ad3aa5e651ff9b6b8c4c9c0df36d3",
@@ -126,7 +130,11 @@
       "semantic.color.background.danger.hovered": "d4b45f53d45619fe2fd813a9d86c2cb315ceab05",
       "semantic.color.background.danger.pressed": "cc5db3ea388c902a9aa218265ab6a3dd589c1efa",
       "semantic.color.background.danger.selected": "700f4045dce61651c759f0aefdb69df678116348",
-      "semantic.color.background.danger.disbaled": "4d9779c7543b7ed3a7c006cc76ffeb0068a54d29"
+      "semantic.color.background.danger.disbaled": "4d9779c7543b7ed3a7c006cc76ffeb0068a54d29",
+      "semantic.color.background.input.default": "a343694b6cb179aa238b7921e28ce1f8bb308eea",
+      "semantic.color.background.input.hovered": "d59cb3469c90cb7548c5aeea1b5ec96df6bf82cf",
+      "semantic.color.background.input.pressed": "410bab5a487b83588e778ff03c5565acd899237f",
+      "semantic.color.background.input.disabled": "c2f221bf0962c69dc422b20f804747771f8b0f36"
     },
     "group": "colors"
   },
@@ -198,9 +206,14 @@
       "semantic.color.icon.inverted": "e3511079bb2b6d3552e455603d7f4e5b0dfd4543",
       "semantic.color.icon.disabled": "419063795634be1061f371212e5d16679ab251b5",
       "semantic.color.icon.selected": "54b99e01feefd565847c9bafab283cb65a1f88ee",
-      "semantic.color.border.default": "d6870c2ca8cfd9e1eacbd32bd6b0c0beed127edb",
+      "semantic.color.border.blue": "d6870c2ca8cfd9e1eacbd32bd6b0c0beed127edb",
       "semantic.color.border.focussed": "11aa42b2ae9e4a8c470f9abeb6b1fc43932e6963",
       "semantic.color.border.disabled": "17c8c640b53732c71778b96b44e0f08f61db031c",
+      "semantic.color.border.danger": "834712dab62e2b00fc333dcfcfeabb3a109b176a",
+      "semantic.color.border.default": "504ba17b099fbc3897177ecf2cad1fa5e40ecf03",
+      "semantic.color.border.input.default": "5e70a321bc414570b76a7cde3f2be5e992dcb05a",
+      "semantic.color.border.input.pressed": "819e0324f536d745ca38fa1a8750683fc75f7d2f",
+      "semantic.color.border.input.disabled": "a2d53f5f270cb58aaaec464c6f654fef0996b496",
       "semantic.color.text.default": "ebbec7810fe64be85fcf5f5479092bbddbabf15a",
       "semantic.color.text.inverted": "d598d82e1330ec9e625612de528b4f804906970e",
       "semantic.color.text.selected": "a3033724811ad3aa5e651ff9b6b8c4c9c0df36d3",
@@ -221,7 +234,11 @@
       "semantic.color.background.danger.hovered": "d4b45f53d45619fe2fd813a9d86c2cb315ceab05",
       "semantic.color.background.danger.pressed": "cc5db3ea388c902a9aa218265ab6a3dd589c1efa",
       "semantic.color.background.danger.selected": "700f4045dce61651c759f0aefdb69df678116348",
-      "semantic.color.background.danger.disbaled": "4d9779c7543b7ed3a7c006cc76ffeb0068a54d29"
+      "semantic.color.background.danger.disbaled": "4d9779c7543b7ed3a7c006cc76ffeb0068a54d29",
+      "semantic.color.background.input.default": "a343694b6cb179aa238b7921e28ce1f8bb308eea",
+      "semantic.color.background.input.hovered": "d59cb3469c90cb7548c5aeea1b5ec96df6bf82cf",
+      "semantic.color.background.input.pressed": "410bab5a487b83588e778ff03c5565acd899237f",
+      "semantic.color.background.input.disabled": "c2f221bf0962c69dc422b20f804747771f8b0f36"
     },
     "group": "colors"
   }

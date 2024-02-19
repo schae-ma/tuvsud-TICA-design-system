@@ -2,7 +2,7 @@
   "semantic": {
     "color": {
       "border": {
-        "default": {
+        "blue": {
           "value": "{core.color.blue.blue-700}",
           "type": "color"
         },
@@ -13,6 +13,28 @@
         "disabled": {
           "value": "{core.color.neutral.neutral-400}",
           "type": "color"
+        },
+        "danger": {
+          "value": "{core.color.red.red-600}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.color.neutralA.neutral-200A}",
+          "type": "color"
+        },
+        "input": {
+          "default": {
+            "value": "{core.color.neutralA.neutral-100A}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{core.color.neutral.neutral-400}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutralA.neutral-100A}",
+            "type": "color"
+          }
         }
       }
     }

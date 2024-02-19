@@ -170,23 +170,23 @@
         }
       },
       "neutralA": {
-        "neutral-100A": {
+        "neutral-0A": {
           "value": "#091e4208",
           "type": "color"
         },
-        "neutral-200A": {
+        "neutral-100A": {
           "value": "#091e420f",
           "type": "color"
         },
-        "neutral-300A": {
+        "neutral-200A": {
           "value": "#091e4224",
           "type": "color"
         },
-        "neutral-400A": {
+        "neutral-250A": {
           "value": "#091e424f",
           "type": "color"
         },
-        "neutral-500A": {
+        "neutral-300A": {
           "value": "#091e427d",
           "type": "color"
         }
