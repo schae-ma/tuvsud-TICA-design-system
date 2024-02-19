@@ -4,7 +4,8 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "core/elevation": "disabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:532:1541",
@@ -15,9 +16,6 @@
     "id": "3e3193f12accc5f94bcabf6440ca969d5ab7ba94",
     "name": "light",
     "$figmaStyleReferences": {
-      "semantic.elevation.shadow.raised": "S:a23826d9409849add127748f0fdc1d9fb119f114,",
-      "semantic.elevation.shadow.overlay": "S:881ffe8870e595a9f10c121bf29fa173d6ea6344,",
-      "semantic.elevation.shadow.overflow": "S:bfddd2e01c0bb0939327a897cb6a921c021936e8,",
       "semantic.typography.headline.headline-100": "S:5e7e5cf6d28ad03093acdf2df6328b87b6aadbd3,",
       "semantic.typography.headline.headline-200": "S:976bfa43b7272c3f4330ef4f2d3484e29e799b27,",
       "semantic.typography.headline.headline-300": "S:dfb2228e09b5fb53b41ebd726f038fdc7a62781f,",
@@ -33,7 +31,13 @@
       "semantic.typography.UI.UI-100": "S:117c0febfa049790a573fd32954b27ff70ab7390,",
       "semantic.typography.UI.UI-100b": "S:db35d9cb033c0d75d9e3c6d1a29e7cfe556aaee0,",
       "semantic.typography.UI.UI-200": "S:3ac9579b0a1a8887a9a2d3e305d1bb0b13e71ceb,",
-      "semantic.typography.UI.UI-200b": "S:e4c0220f95801dbd7213752c6c9e65e5f00f64d0,"
+      "semantic.typography.UI.UI-200b": "S:e4c0220f95801dbd7213752c6c9e65e5f00f64d0,",
+      "semantic.elevation.dark.shadow.raised": "S:678b69b72513a3013ab673d5500fe30db754fb15,",
+      "semantic.elevation.dark.shadow.overlay": "S:e014d388594be41dc6ec28d36d71fa0d2c9ac4dd,",
+      "semantic.elevation.dark.shadow.overflow": "S:a4acf13642898a2b241ca2204999ef79a4606fd4,",
+      "semantic.elevation.light.shadow.raised": "S:4fea8991fbaa665b4dff28f5c8ac05426b42ab5d,",
+      "semantic.elevation.light.shadow.overlay": "S:7364be34a1a871cffe0c68d7f6b33697397de5b6,",
+      "semantic.elevation.light.shadow.overflow": "S:91d8890985110f019cdb8b4a1a0facea25876082,"
     },
     "selectedTokenSets": {
       "core": "source",
@@ -54,8 +58,8 @@
       "semantic/dimension/size": "enabled",
       "semantic/typography": "enabled",
       "core/dimension/direction": "source",
-      "core/light/elevation": "source",
-      "semantic/elevation/shadow": "enabled"
+      "semantic/elevation/shadow": "enabled",
+      "core/elevation": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:320:2259",
     "$figmaModeId": "320:3",
@@ -149,8 +153,8 @@
       "semantic/dimension/size": "enabled",
       "semantic/typography": "enabled",
       "core/dimension/direction": "source",
-      "core/dark/elevation": "source",
-      "semantic/elevation/shadow": "enabled"
+      "semantic/elevation/shadow": "enabled",
+      "core/elevation": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:320:2259",
     "$figmaModeId": "320:4",

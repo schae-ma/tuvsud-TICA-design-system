@@ -1,18 +1,36 @@
 {
   "semantic": {
     "elevation": {
-      "shadow": {
-        "raised": {
-          "value": "{core.elevation.shadow-100}",
-          "type": "boxShadow"
-        },
-        "overlay": {
-          "value": "{core.elevation.shadow-200}",
-          "type": "boxShadow"
-        },
-        "overflow": {
-          "value": "{core.elevation.shadow-300}",
-          "type": "boxShadow"
+      "dark": {
+        "shadow": {
+          "raised": {
+            "value": "{core.elevation.dark.shadow-100}",
+            "type": "boxShadow"
+          },
+          "overlay": {
+            "value": "{core.elevation.dark.shadow-200}",
+            "type": "boxShadow"
+          },
+          "overflow": {
+            "value": "{core.elevation.dark.shadow-300}",
+            "type": "boxShadow"
+          }
+        }
+      },
+      "light": {
+        "shadow": {
+          "raised": {
+            "value": "{core.elevation.light.shadow-100}",
+            "type": "boxShadow"
+          },
+          "overlay": {
+            "value": "{core.elevation.light.shadow-100}",
+            "type": "boxShadow"
+          },
+          "overflow": {
+            "value": "{core.elevation.light.shadow-100}",
+            "type": "boxShadow"
+          }
         }
       }
     }
