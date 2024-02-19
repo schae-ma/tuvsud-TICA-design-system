@@ -34,6 +34,10 @@
           "disabled": {
             "value": "{core.color.neutralA.neutral-100A}",
             "type": "color"
+          },
+          "hovered": {
+            "value": "{core.color.neutralA.neutral-200A}",
+            "type": "color"
           }
         }
       }

@@ -88,7 +88,7 @@
             "type": "color"
           },
           "pressed": {
-            "value": "{core.color.neutral.neutral-0}",
+            "value": "{core.color.neutralA.neutral-200A}",
             "type": "color"
           },
           "disabled": {
