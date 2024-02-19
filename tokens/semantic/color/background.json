@@ -94,6 +94,16 @@
           "disabled": {
             "value": "{core.color.neutralA.neutral-0A}",
             "type": "color"
+          },
+          "danger": {
+            "hovered": {
+              "value": "{core.color.red.red-200}",
+              "type": "color"
+            },
+            "": {
+              "value": "{core.color.red.red-100}",
+              "type": "color"
+            }
           }
         }
       }

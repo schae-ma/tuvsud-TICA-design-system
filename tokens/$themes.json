@@ -135,7 +135,8 @@
       "semantic.color.background.input.default": "a343694b6cb179aa238b7921e28ce1f8bb308eea",
       "semantic.color.background.input.hovered": "d59cb3469c90cb7548c5aeea1b5ec96df6bf82cf",
       "semantic.color.background.input.pressed": "410bab5a487b83588e778ff03c5565acd899237f",
-      "semantic.color.background.input.disabled": "c2f221bf0962c69dc422b20f804747771f8b0f36"
+      "semantic.color.background.input.disabled": "c2f221bf0962c69dc422b20f804747771f8b0f36",
+      "semantic.color.background.input.danger.hovered": "f2313e741ff451eac217f8ccbea5cccd5026cbf3"
     },
     "group": "colors"
   },
@@ -240,7 +241,8 @@
       "semantic.color.background.input.default": "a343694b6cb179aa238b7921e28ce1f8bb308eea",
       "semantic.color.background.input.hovered": "d59cb3469c90cb7548c5aeea1b5ec96df6bf82cf",
       "semantic.color.background.input.pressed": "410bab5a487b83588e778ff03c5565acd899237f",
-      "semantic.color.background.input.disabled": "c2f221bf0962c69dc422b20f804747771f8b0f36"
+      "semantic.color.background.input.disabled": "c2f221bf0962c69dc422b20f804747771f8b0f36",
+      "semantic.color.background.input.danger.hovered": "f2313e741ff451eac217f8ccbea5cccd5026cbf3"
     },
     "group": "colors"
   }
