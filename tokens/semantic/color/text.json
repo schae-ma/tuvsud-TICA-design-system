@@ -31,6 +31,10 @@
             "value": "{core.color.red.red-700}",
             "type": "color"
           }
+        },
+        "placeholder": {
+          "value": "{core.color.neutral.neutral-700}",
+          "type": "color"
         }
       }
     }
