@@ -35,6 +35,10 @@
         "placeholder": {
           "value": "{core.color.neutral.neutral-700}",
           "type": "color"
+        },
+        "secondary": {
+          "value": "{core.color.neutral.neutral-700}",
+          "type": "color"
         }
       }
     }
