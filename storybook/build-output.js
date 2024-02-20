@@ -7,7 +7,7 @@ import StyleDictionary from 'style-dictionary';
 registerTransforms(StyleDictionary);
 
 const sd = StyleDictionary.extend({
-  source: ['tokens/*.json'], // <-- make sure to have this match your token files!!!
+  source: ['tokens/**/*.json'], // <-- make sure to have this match your token files!!!
   platforms: {
     css: {
       transformGroup: 'tokens-studio',

@@ -1,0 +1,29 @@
+@import "../../../build/scss/variables-xs-light";
+
+.button{
+    color: $semanticColorTextInverted;
+    background-color: $semanticColorBackgroundBlueDefault;
+    padding: $semanticDimensionSpaceComponentLg;
+    border-radius: $semanticSizeRadiusMd;
+    font: $semanticTypographyUiUi200;
+    gap: $semanticDimensionSpaceComponentLg;
+    border: none;
+    &:hover{
+        background-color: $semanticColorBackgroundBlueHovered;
+    }
+    &:active{
+        background-color: $semanticColorBackgroundBluePressed;
+    }
+    &:visited{
+        background-color: $semanticColorBackgroundBlueSelected;
+        color: $semanticColorTextSelected;
+    }
+    &:disabled{
+        background-color: $semanticColorBackgroundGrayDisabled;
+        color: $semanticColorTextDisabled;
+    }
+    &:focus{
+        outline: $semanticSizeRadiusSm solid $semanticColorBorderFocussed;
+        outline-offset: 2px
+    }
+}
