@@ -105,6 +105,24 @@
               "type": "color"
             }
           }
+        },
+        "surface": {
+          "default": {
+            "value": "{core.color.neutral.neutral-0}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{core.color.neutral.neutral-200}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{core.color.neutral.neutral-300}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.color.neutral.neutral-100}",
+            "type": "color"
+          }
         }
       }
     }
