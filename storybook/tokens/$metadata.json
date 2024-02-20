@@ -1,0 +1,25 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "core/dimension/size",
+    "core/dimension/space",
+    "core/dimension/direction",
+    "core/font/lineHeight",
+    "core/font/fontWeight",
+    "core/font/fontFamily",
+    "core/font/fontSize",
+    "core/elevation",
+    "light/color",
+    "dark/color",
+    "semantic",
+    "semantic/color",
+    "semantic/color/background",
+    "semantic/color/text",
+    "semantic/color/border",
+    "semantic/color/icon",
+    "semantic/dimension/space",
+    "semantic/dimension/size",
+    "semantic/typography",
+    "semantic/elevation/shadow"
+  ]
+}

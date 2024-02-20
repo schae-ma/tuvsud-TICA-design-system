@@ -9,6 +9,16 @@
         "format": "scss/variables"
       }]
     },
+    "css": {
+      "transformGroup": "tokens-studio",
+      "prefix":"sd",
+      "buildPath": "build/css/",
+      "files": [
+        {
+          "destination": "_variables-%theme%.css",
+          "format": "css/variables"
+        }]
+    },
     "android": {
       "transformGroup": "android",
       "buildPath": "build/android/",

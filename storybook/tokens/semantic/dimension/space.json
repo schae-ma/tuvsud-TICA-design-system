@@ -1,0 +1,98 @@
+{
+  "semantic": {
+    "dimension": {
+      "space": {
+        "ui": {
+          "xs": {
+            "value": "{core.dimension.space-800}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{core.dimension.space-1000}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{core.dimension.space-1200}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{core.dimension.space-1300}",
+            "type": "spacing"
+          },
+          "xl": {
+            "value": "{core.dimension.space-1400}",
+            "type": "spacing"
+          },
+          "2xl": {
+            "value": "{core.dimension.space-1500}",
+            "type": "spacing"
+          },
+          "3xl": {
+            "value": "{core.dimension.space-1600}",
+            "type": "spacing"
+          }
+        },
+        "pattern": {
+          "xs": {
+            "value": "{core.dimension.space-300}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{core.dimension.space-500}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{core.dimension.space-700}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{core.dimension.space-800}",
+            "type": "spacing"
+          },
+          "xl": {
+            "value": "{core.dimension.space-900}",
+            "type": "spacing"
+          },
+          "2xl": {
+            "value": "{core.dimension.space-1000}",
+            "type": "spacing"
+          },
+          "3xl": {
+            "value": "{core.dimension.space-1100}",
+            "type": "spacing"
+          }
+        },
+        "component": {
+          "xs": {
+            "value": "{core.dimension.space-100}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{core.dimension.space-200}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{core.dimension.space-300}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{core.dimension.space-400}",
+            "type": "spacing"
+          },
+          "xl": {
+            "value": "{core.dimension.space-500}",
+            "type": "spacing"
+          },
+          "2xl": {
+            "value": "{core.dimension.space-600}",
+            "type": "spacing"
+          },
+          "3xl": {
+            "value": "{core.dimension.space-700}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

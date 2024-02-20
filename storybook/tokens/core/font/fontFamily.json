@@ -1,0 +1,20 @@
+{
+  "core": {
+    "font": {
+      "fontFamily": {
+        "default": {
+          "value": "TUV SUD Pro",
+          "type": "fontFamilies"
+        },
+        "fallback": {
+          "value": "Arial",
+          "type": "fontFamilies"
+        },
+        "mono": {
+          "value": "IBM Plex Mono",
+          "type": "fontFamilies"
+        }
+      }
+    }
+  }
+}

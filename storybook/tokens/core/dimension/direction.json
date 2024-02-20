@@ -1,0 +1,22 @@
+{
+  "core": {
+    "dimension": {
+      "direction-100": {
+        "value": "0rem",
+        "type": "dimension"
+      },
+      "direction-200": {
+        "value": "0.063rem",
+        "type": "dimension"
+      },
+      "direction-300": {
+        "value": "0.5rem",
+        "type": "dimension"
+      },
+      "direction-400": {
+        "value": "0.75rem",
+        "type": "dimension"
+      }
+    }
+  }
+}
