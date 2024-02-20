@@ -1,3 +1,5 @@
+@import "../../../build/scss/variables";
+
 .accordion-item--large {
     /*border-top: 2px solid #0072CE;*/
     /*YEEEY*/
@@ -44,7 +46,7 @@
 
 
 .accordion-item.open{
-    border-top: 2px solid #0072CE;
+    border-top: 2px solid $colors-comp-accordion-border-open;
 }
 
 .accordion-item.open .accordion-item-header{
