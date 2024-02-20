@@ -84,6 +84,14 @@
               "spread": "0",
               "color": "{core.color.shadow.shadow-300}",
               "type": "dropShadow"
+            },
+            {
+              "x": "{core.dimension.direction-100}",
+              "y": "{core.dimension.direction-100}",
+              "blur": "{core.dimension.direction-200}",
+              "spread": "0",
+              "color": "{core.color.shadow.shadow-300}",
+              "type": "dropShadow"
             }
           ],
           "type": "boxShadow"
