@@ -40,8 +40,8 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
          
-      - name: Install Supernova CLI dependency
-        run: npm install --g @supernovaio/cli
+      - name: Install npm dependencies
+        run: npm install 
 
       - name: Synchronize tokens with Supernova 
         run: >
