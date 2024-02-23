@@ -39,7 +39,7 @@ jobs:
       - name: Install npm dependencies
         run: npm install
       - name: Install Supernova CLI dependency
-        run: npm install --g @supernovaio/cli
+        run: npm install @supernovaio/supernova-sdk
 
       - name: Synchronize tokens with Supernova 
         run: >
