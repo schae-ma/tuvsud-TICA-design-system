@@ -58,6 +58,12 @@
           "disabled": {
             "value": "{core.color.neutralA.neutral-0A}",
             "type": "color"
+          },
+          "subtle": {
+            "default": {
+              "value": "{core.color.neutralA.neutral-0A}",
+              "type": "color"
+            }
           }
         },
         "warning": {
