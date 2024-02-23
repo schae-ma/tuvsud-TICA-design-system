@@ -2,29 +2,39 @@
   "semantic": {
     "color": {
       "icon": {
-        "default": {
-          "value": "{core.color.neutral.neutral-950}",
-          "type": "color"
+        "base": {
+          "default": {
+            "value": "{core.color.neutral.neutral-950}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutralA.neutral-250A}",
+            "type": "color"
+          }
         },
         "inverted": {
-          "value": "{core.color.neutral.neutral-0}",
-          "type": "color"
+          "default": {
+            "value": "{core.color.neutral.neutral-0}",
+            "type": "color"
+          }
         },
-        "disabled": {
-          "value": "{core.color.neutralA.neutral-250A}",
-          "type": "color"
-        },
-        "selected": {
-          "value": "{core.color.blue.blue-700}",
-          "type": "color"
+        "primary": {
+          "default": {
+            "value": "{core.color.blue.blue-700}",
+            "type": "color"
+          }
         },
         "danger": {
-          "value": "{core.color.red.red-800}",
-          "type": "color"
+          "default": {
+            "value": "{core.color.red.red-800}",
+            "type": "color"
+          }
         },
         "success": {
-          "value": "{core.color.green.green-800}",
-          "type": "color"
+          "default": {
+            "value": "{core.color.green.green-800}",
+            "type": "color"
+          }
         }
       }
     }

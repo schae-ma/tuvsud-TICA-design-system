@@ -2,7 +2,7 @@
   "semantic": {
     "color": {
       "background": {
-        "blue": {
+        "primary": {
           "default": {
             "value": "{core.color.blue.blue-700}",
             "type": "color"
@@ -18,19 +18,45 @@
           "selected": {
             "value": "{core.color.blue.blue-100}",
             "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutralA.neutral-0A}",
+            "type": "color"
           }
         },
-        "gray": {
+        "base": {
           "disabled": {
             "value": "{core.color.neutralA.neutral-0A}",
             "type": "color"
           },
+          "default": {
+            "value": "{core.color.neutral.neutral-0}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{core.color.neutral.neutral-200}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{core.color.neutral.neutral-300}",
+            "type": "color"
+          }
+        },
+        "secondary": {
           "hovered": {
             "value": "{core.color.neutralA.neutral-100A}",
             "type": "color"
           },
           "pressed": {
             "value": "{core.color.neutralA.neutral-200A}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.neutral.neutral-100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutralA.neutral-0A}",
             "type": "color"
           }
         },
@@ -76,27 +102,9 @@
           "disbaled": {
             "value": "{core.color.red.red-100}",
             "type": "color"
-          }
-        },
-        "input": {
-          "default": {
-            "value": "{core.color.neutral.neutral-0}",
-            "type": "color"
           },
-          "hovered": {
-            "value": "{core.color.neutral.neutral-100}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{core.color.neutralA.neutral-200A}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{core.color.neutralA.neutral-0A}",
-            "type": "color"
-          },
-          "danger": {
-            "pressed": {
+          "subtle": {
+            "default": {
               "value": "{core.color.red.red-200}",
               "type": "color"
             },
@@ -104,24 +112,6 @@
               "value": "{core.color.red.red-100}",
               "type": "color"
             }
-          }
-        },
-        "surface": {
-          "default": {
-            "value": "{core.color.neutral.neutral-0}",
-            "type": "color"
-          },
-          "hovered": {
-            "value": "{core.color.neutral.neutral-200}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{core.color.neutral.neutral-300}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{core.color.neutral.neutral-100}",
-            "type": "color"
           }
         }
       }

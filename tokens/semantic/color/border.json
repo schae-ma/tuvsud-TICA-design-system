@@ -2,27 +2,23 @@
   "semantic": {
     "color": {
       "border": {
-        "blue": {
-          "value": "{core.color.blue.blue-700}",
-          "type": "color"
-        },
-        "focussed": {
-          "value": "{core.color.blue.blue-500}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.color.neutral.neutral-400}",
-          "type": "color"
+        "primary": {
+          "default": {
+            "value": "{core.color.blue.blue-700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core.color.blue.blue-500}",
+            "type": "color"
+          }
         },
         "danger": {
-          "value": "{core.color.red.red-600}",
-          "type": "color"
+          "default": {
+            "value": "{core.color.red.red-600}",
+            "type": "color"
+          }
         },
-        "default": {
-          "value": "{core.color.neutralA.neutral-200A}",
-          "type": "color"
-        },
-        "input": {
+        "base": {
           "default": {
             "value": "{core.color.neutralA.neutral-100A}",
             "type": "color"
@@ -31,12 +27,12 @@
             "value": "{core.color.neutral.neutral-400}",
             "type": "color"
           },
-          "disabled": {
-            "value": "{core.color.neutralA.neutral-100A}",
-            "type": "color"
-          },
           "hovered": {
             "value": "{core.color.neutralA.neutral-200A}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutral.neutral-400}",
             "type": "color"
           }
         }
