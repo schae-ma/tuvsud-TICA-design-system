@@ -5,87 +5,106 @@
         "primary": {
           "default": {
             "value": "{core.color.blue.blue-700}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for background that should use the primary brand color such as buttons."
           },
           "hovered": {
             "value": "{core.color.blue.blue-800}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for hovered background that should use the primary brand color such as buttons."
           },
           "pressed": {
             "value": "{core.color.blue.blue-900}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for pressed background that should use the primary brand color such as buttons."
           },
           "selected": {
             "value": "{core.color.blue.blue-100}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for selected background that should use the primary brand color such as buttons."
           },
           "disabled": {
             "value": "{core.color.neutralA.neutral-0A}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for üdisabled background that should use the primary brand color such as buttons."
           }
         },
         "base": {
           "disabled": {
             "value": "{core.color.neutralA.neutral-0A}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for disabled background that is used as a surface"
           },
           "default": {
             "value": "{core.color.neutral.neutral-0}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for background that is used as a surface"
           },
           "hovered": {
             "value": "{core.color.neutral.neutral-200}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for hovered background that is used as a surface"
           },
           "pressed": {
             "value": "{core.color.neutral.neutral-300}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for pressed background that is used as a surface"
           }
         },
         "secondary": {
           "hovered": {
             "value": "{core.color.neutralA.neutral-100A}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for hovered background that is used as a secondary surface"
           },
           "pressed": {
             "value": "{core.color.neutralA.neutral-200A}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for pressed background that is used as a secondary surface"
           },
           "default": {
             "value": "{core.color.neutral.neutral-100}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for background that is used as a secondary surface"
           },
           "disabled": {
             "value": "{core.color.neutralA.neutral-0A}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for disabled background that is used as a secondary surface"
           },
           "subtle": {
             "default": {
               "value": "{core.color.neutralA.neutral-0A}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for background that is used as a very subtle surface"
             }
           }
         },
         "warning": {
           "default": {
             "value": "{core.color.yellow.yellow-300}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for a background that is indicating a warning state, such as warning buttons"
           },
           "hovered": {
             "value": "{core.color.yellow.yellow-400}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for a hovered background that is indicating a warning state, such as warning buttons"
           },
           "pressed": {
             "value": "{core.color.yellow.yellow-500}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for a pressed background that is indicating a warning state, such as warning buttons"
           },
           "selected": {
             "value": "{core.color.yellow.yellow-200}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for a selected background that is indicating a warning state, such as warning buttons"
           },
           "disabled": {
             "value": "{core.color.yellow.yellow-100}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for a disabled background that is indicating a warning state, such as warning buttons"
           }
         },
         "danger": {
