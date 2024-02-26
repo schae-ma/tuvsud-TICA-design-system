@@ -119,6 +119,24 @@
               "type": "color"
             }
           }
+        },
+        "transparent": {
+          "default": {
+            "value": "{core.color.neutralA.neutral-500A}",
+            "type": "color"
+          },
+          "danger": {
+            "value": "{core.color.transparent.transparent-red-100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core.color.transparent.transparent-blue-100}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{core.color.transparent.transparent-green-100}",
+            "type": "color"
+          }
         }
       }
     }

@@ -484,6 +484,20 @@
           "value": "#39424A",
           "type": "color"
         }
+      },
+      "transparent": {
+        "transparent-blue-100": {
+          "value": "rgba(29,122,252,0.07)",
+          "type": "color"
+        },
+        "transparent-red-100": {
+          "value": "rgba(227,73,53,0.07)",
+          "type": "color"
+        },
+        "transparent-green-100": {
+          "value": "rgba(31,132,90,0.07)",
+          "type": "color"
+        }
       }
     }
   }

@@ -472,6 +472,20 @@
           "value": "rgba(9,30,66,0.31)",
           "type": "color"
         }
+      },
+      "transparent": {
+        "transparent-blue-100": {
+          "value": "rgba(56,139,255,0.08)",
+          "type": "color"
+        },
+        "transparent-red-100": {
+          "value": "rgba(239,92,72,0.08)",
+          "type": "color"
+        },
+        "transparent-green-100": {
+          "value": "rgba(31,132,90,0.08)",
+          "type": "color"
+        }
       }
     }
   }
