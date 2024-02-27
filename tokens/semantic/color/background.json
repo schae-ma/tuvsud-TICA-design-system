@@ -24,14 +24,14 @@
             "description": "Use for selected background that should use the primary brand color such as buttons."
           },
           "disabled": {
-            "value": "{core.color.neutralA.neutral-0A}",
+            "value": "{core.color.neutralA.neutral-100A}",
             "type": "color",
             "description": "Use for üdisabled background that should use the primary brand color such as buttons."
           }
         },
         "base": {
           "disabled": {
-            "value": "{core.color.neutralA.neutral-0A}",
+            "value": "{core.color.neutralA.neutral-100A}",
             "type": "color",
             "description": "Use for disabled background that is used as a surface"
           },
@@ -68,13 +68,13 @@
             "description": "Use for background that is used as a secondary surface"
           },
           "disabled": {
-            "value": "{core.color.neutralA.neutral-0A}",
+            "value": "{core.color.neutralA.neutral-100A}",
             "type": "color",
             "description": "Use for disabled background that is used as a secondary surface"
           },
           "subtle": {
             "default": {
-              "value": "{core.color.neutralA.neutral-0A}",
+              "value": "{core.color.neutralA.neutral-100A}",
               "type": "color",
               "description": "Use for background that is used as a very subtle surface"
             }

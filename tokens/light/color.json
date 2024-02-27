@@ -190,8 +190,12 @@
           "value": "rgba(9,30,66,0.2)",
           "type": "color"
         },
-        "": {
+        "neutral-400A": {
           "value": "rgba(9,30,66,0.3)",
+          "type": "color"
+        },
+        "neutral-500A": {
+          "value": "rgba(9,30,66,0.5)",
           "type": "color"
         }
       },
