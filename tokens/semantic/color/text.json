@@ -8,7 +8,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.color.neutralA.neutral-300A}",
+            "value": "{core.color.neutralA.neutral-350A}",
             "type": "color"
           }
         },
