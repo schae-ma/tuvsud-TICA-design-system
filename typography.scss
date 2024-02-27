@@ -1,0 +1,417 @@
+
+.semantic typography headline headline-100 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-300;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-200 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-300;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-300 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-300;
+  line-height: $Line Height Line Height core font lineHeight-400;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-400 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-500;
+  line-height: $Line Height Line Height core font lineHeight-500;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-500 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-600;
+  line-height: $Line Height Line Height core font lineHeight-600;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-600 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-700;
+  line-height: $Line Height Line Height core font lineHeight-700;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-700 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-800;
+  line-height: $Line Height Line Height core font lineHeight-800;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-800 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-900;
+  line-height: $Line Height Line Height core font lineHeight-900;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography headline headline-900 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-1000;
+  line-height: $Line Height Line Height core font lineHeight-1000;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography body body-100 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-300;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography body body-200 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-400;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography body body-300 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: $Font Sizing Font Size core font fontSize-300;
+  line-height: $Line Height Line Height core font lineHeight-500;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography UI UI-100 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-100;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography UI UI-100b 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-100;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography UI UI-200 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-200;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.semantic typography UI UI-200b 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-200;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-100 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-300;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-200 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-300;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-300 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-300;
+  line-height: $Line Height Line Height core font lineHeight-400;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-400 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-500;
+  line-height: $Line Height Line Height core font lineHeight-500;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-500 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-600;
+  line-height: $Line Height Line Height core font lineHeight-600;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-600 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-700;
+  line-height: $Line Height Line Height core font lineHeight-700;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-700 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-800;
+  line-height: $Line Height Line Height core font lineHeight-800;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-800 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-900;
+  line-height: $Line Height Line Height core font lineHeight-900;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography headline headline-900 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-1000;
+  line-height: $Line Height Line Height core font lineHeight-1000;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography body body-100 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-300;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography body body-200 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-400;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography body body-300 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: $Font Sizing Font Size core font fontSize-300;
+  line-height: $Line Height Line Height core font lineHeight-500;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography UI UI-100 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-100;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography UI UI-100b 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-100;
+  line-height: $Line Height Line Height core font lineHeight-100;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography UI UI-200 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-200;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin semantic typography UI UI-200b 
+{ 
+  
+  font-family: "TUV SUD Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: $Font Sizing Font Size core font fontSize-200;
+  line-height: $Line Height Line Height core font lineHeight-200;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
