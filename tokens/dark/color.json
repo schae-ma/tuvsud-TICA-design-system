@@ -170,10 +170,6 @@
         }
       },
       "neutralA": {
-        "neutral-0A": {
-          "value": "#03040442",
-          "type": "color"
-        },
         "neutral-100A": {
           "value": "#bcd6f00a",
           "type": "color"

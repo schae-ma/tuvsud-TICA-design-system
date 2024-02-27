@@ -170,24 +170,28 @@
         }
       },
       "neutralA": {
-        "neutral-0A": {
-          "value": "#091e4208",
-          "type": "color"
-        },
         "neutral-100A": {
-          "value": "#091e420f",
+          "value": "rgba(9,30,66,0.04)",
           "type": "color"
         },
         "neutral-200A": {
-          "value": "#091e4224",
+          "value": "rgba(9,30,66,0.08)",
           "type": "color"
         },
         "neutral-250A": {
-          "value": "#091e424f",
+          "value": "rgba(9,30,66,0.1)",
           "type": "color"
         },
         "neutral-300A": {
-          "value": "#091e427d",
+          "value": "rgba(9,30,66,0.16)",
+          "type": "color"
+        },
+        "neutral-350A": {
+          "value": "rgba(9,30,66,0.2)",
+          "type": "color"
+        },
+        "": {
+          "value": "rgba(9,30,66,0.3)",
           "type": "color"
         }
       },
