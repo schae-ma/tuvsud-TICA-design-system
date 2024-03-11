@@ -17,6 +17,7 @@
     "semantic/color/text",
     "semantic/color/border",
     "semantic/color/icon",
+    "semantic/color/charts",
     "semantic/dimension/space",
     "semantic/dimension/size",
     "semantic/typography",
