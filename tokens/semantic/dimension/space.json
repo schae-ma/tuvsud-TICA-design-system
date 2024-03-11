@@ -4,61 +4,61 @@
       "space": {
         "ui": {
           "xs": {
-            "value": "{core.dimension.space-800}",
+            "value": "{core.dimension.space-900}",
             "type": "spacing"
           },
           "sm": {
-            "value": "{core.dimension.space-1000}",
+            "value": "{core.dimension.space-1100}",
             "type": "spacing"
           },
           "md": {
-            "value": "{core.dimension.space-1200}",
-            "type": "spacing"
-          },
-          "lg": {
             "value": "{core.dimension.space-1300}",
             "type": "spacing"
           },
-          "xl": {
+          "lg": {
             "value": "{core.dimension.space-1400}",
             "type": "spacing"
           },
-          "2xl": {
+          "xl": {
             "value": "{core.dimension.space-1500}",
             "type": "spacing"
           },
-          "3xl": {
+          "2xl": {
             "value": "{core.dimension.space-1600}",
+            "type": "spacing"
+          },
+          "3xl": {
+            "value": "{core.dimension.space-1700}",
             "type": "spacing"
           }
         },
         "pattern": {
           "xs": {
-            "value": "{core.dimension.space-300}",
+            "value": "{core.dimension.space-400}",
             "type": "spacing"
           },
           "sm": {
-            "value": "{core.dimension.space-500}",
+            "value": "{core.dimension.space-600}",
             "type": "spacing"
           },
           "md": {
-            "value": "{core.dimension.space-700}",
-            "type": "spacing"
-          },
-          "lg": {
             "value": "{core.dimension.space-800}",
             "type": "spacing"
           },
-          "xl": {
+          "lg": {
             "value": "{core.dimension.space-900}",
             "type": "spacing"
           },
-          "2xl": {
+          "xl": {
             "value": "{core.dimension.space-1000}",
             "type": "spacing"
           },
-          "3xl": {
+          "2xl": {
             "value": "{core.dimension.space-1100}",
+            "type": "spacing"
+          },
+          "3xl": {
+            "value": "{core.dimension.space-1200}",
             "type": "spacing"
           }
         },
@@ -69,10 +69,6 @@
           },
           "sm": {
             "value": "{core.dimension.space-200}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{core.dimension.space-300}",
             "type": "spacing"
           },
           "lg": {
@@ -89,6 +85,14 @@
           },
           "3xl": {
             "value": "{core.dimension.space-700}",
+            "type": "spacing"
+          },
+          "4xl": {
+            "value": "{core.dimension.space-800}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{core.dimension.space-300}",
             "type": "spacing"
           }
         }
