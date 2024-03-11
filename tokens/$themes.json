@@ -4,8 +4,7 @@
     "name": "xs",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "semantic/color/charts": "disabled"
+      "core": "enabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:535:9014",
@@ -32,12 +31,12 @@
       "semantic.typography.UI.UI-100b": "S:db35d9cb033c0d75d9e3c6d1a29e7cfe556aaee0,",
       "semantic.typography.UI.UI-200": "S:3ac9579b0a1a8887a9a2d3e305d1bb0b13e71ceb,",
       "semantic.typography.UI.UI-200b": "S:e4c0220f95801dbd7213752c6c9e65e5f00f64d0,",
-      "semantic.elevation.dark.shadow.raised": "S:678b69b72513a3013ab673d5500fe30db754fb15,",
-      "semantic.elevation.dark.shadow.overlay": "S:e014d388594be41dc6ec28d36d71fa0d2c9ac4dd,",
-      "semantic.elevation.dark.shadow.overflow": "S:a4acf13642898a2b241ca2204999ef79a4606fd4,",
-      "semantic.elevation.light.shadow.raised": "S:4fea8991fbaa665b4dff28f5c8ac05426b42ab5d,",
-      "semantic.elevation.light.shadow.overlay": "S:7364be34a1a871cffe0c68d7f6b33697397de5b6,",
-      "semantic.elevation.light.shadow.overflow": "S:91d8890985110f019cdb8b4a1a0facea25876082,"
+      "semantic.elevation.shadow.dark.raised": "S:678b69b72513a3013ab673d5500fe30db754fb15,",
+      "semantic.elevation.shadow.dark.overlay": "S:e014d388594be41dc6ec28d36d71fa0d2c9ac4dd,",
+      "semantic.elevation.shadow.dark.overflow": "S:a4acf13642898a2b241ca2204999ef79a4606fd4,",
+      "semantic.elevation.shadow.light.raised": "S:4fea8991fbaa665b4dff28f5c8ac05426b42ab5d,",
+      "semantic.elevation.shadow.light.overlay": "S:7364be34a1a871cffe0c68d7f6b33697397de5b6,",
+      "semantic.elevation.shadow.light.overflow": "S:91d8890985110f019cdb8b4a1a0facea25876082,"
     },
     "selectedTokenSets": {
       "core": "source",

@@ -1,8 +1,8 @@
 {
   "semantic": {
     "elevation": {
-      "dark": {
-        "shadow": {
+      "shadow": {
+        "dark": {
           "raised": {
             "value": "{core.elevation.dark.shadow-100}",
             "type": "boxShadow"
@@ -15,10 +15,8 @@
             "value": "{core.elevation.dark.shadow-300}",
             "type": "boxShadow"
           }
-        }
-      },
-      "light": {
-        "shadow": {
+        },
+        "light": {
           "raised": {
             "value": "{core.elevation.light.shadow-100}",
             "type": "boxShadow"
