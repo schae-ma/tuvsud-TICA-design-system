@@ -137,6 +137,8 @@
       "semantic.color.background.warning.pressed": "8d61f579c76c8c16f3ec53ae327563f69eb31d2f",
       "semantic.color.background.warning.selected": "b1788265a62d588a2487752df0f4ab1e6e6ff892",
       "semantic.color.background.warning.disabled": "289ac14a16dc5943feeef7fe156d9d3cb47a554d",
+      "semantic.color.background.warning.subtle.default": "5897f7cc9fffe0ad2b6d8df1abef1a58fcad9220",
+      "semantic.color.background.warning.subtle.hovered": "cb72585b48ae71f1ede4ce0b24cf70d95b15598b",
       "semantic.color.background.danger.default": "2e3994a4d76414e95718f83b39bf3b8ee1e4f6c1",
       "semantic.color.background.danger.hovered": "d4b45f53d45619fe2fd813a9d86c2cb315ceab05",
       "semantic.color.background.danger.pressed": "cc5db3ea388c902a9aa218265ab6a3dd589c1efa",
@@ -148,15 +150,14 @@
       "semantic.color.background.transparent.danger": "60f2df7895aeaeee4f7dd9d11c8cf2741760308f",
       "semantic.color.background.transparent.selected": "04aeae48b319819641f18a46d2be522b466f97a7",
       "semantic.color.background.transparent.success": "748316e4247d0ff1fc404fc45a75533c5f7eedc2",
-      "semantic.color.background.warning.subtle.default": "5897f7cc9fffe0ad2b6d8df1abef1a58fcad9220",
-      "semantic.color.background.warning.subtle.hovered": "cb72585b48ae71f1ede4ce0b24cf70d95b15598b",
       "semantic.color.background.success.default": "5c0625a382395ee2f5fefbab8bd81abe121e45a2",
       "semantic.color.background.success.hovered": "df405bc6943f1a2ef0d1d59d2b25795a7a1b69bc",
       "semantic.color.background.success.pressed": "7b07a3345c7564677ed83cb35e0949abcba3391e",
       "semantic.color.background.success.selected": "728a61e66fd41ffd2f48df42cd1fae4164cff887",
       "semantic.color.background.success.disabled": "cd517268a6f2bffb993b27900d506f084207f73d",
       "semantic.color.background.success.subtle.default": "0e5012b552c51cc64dc6bc95cdae71721533b5fa",
-      "semantic.color.background.success.subtle.hovered": "1f3cd593fe3db94543c14fa386d1656d08a1e282"
+      "semantic.color.background.success.subtle.hovered": "1f3cd593fe3db94543c14fa386d1656d08a1e282",
+      "semantic.color.background.tertiary.default": "1740506793d416fef171a8a7c5b173085691e38b"
     },
     "group": "colors"
   },
@@ -263,6 +264,8 @@
       "semantic.color.background.warning.pressed": "8d61f579c76c8c16f3ec53ae327563f69eb31d2f",
       "semantic.color.background.warning.selected": "b1788265a62d588a2487752df0f4ab1e6e6ff892",
       "semantic.color.background.warning.disabled": "289ac14a16dc5943feeef7fe156d9d3cb47a554d",
+      "semantic.color.background.warning.subtle.default": "5897f7cc9fffe0ad2b6d8df1abef1a58fcad9220",
+      "semantic.color.background.warning.subtle.hovered": "cb72585b48ae71f1ede4ce0b24cf70d95b15598b",
       "semantic.color.background.danger.default": "2e3994a4d76414e95718f83b39bf3b8ee1e4f6c1",
       "semantic.color.background.danger.hovered": "d4b45f53d45619fe2fd813a9d86c2cb315ceab05",
       "semantic.color.background.danger.pressed": "cc5db3ea388c902a9aa218265ab6a3dd589c1efa",
@@ -274,15 +277,14 @@
       "semantic.color.background.transparent.danger": "60f2df7895aeaeee4f7dd9d11c8cf2741760308f",
       "semantic.color.background.transparent.selected": "04aeae48b319819641f18a46d2be522b466f97a7",
       "semantic.color.background.transparent.success": "748316e4247d0ff1fc404fc45a75533c5f7eedc2",
-      "semantic.color.background.warning.subtle.default": "5897f7cc9fffe0ad2b6d8df1abef1a58fcad9220",
-      "semantic.color.background.warning.subtle.hovered": "cb72585b48ae71f1ede4ce0b24cf70d95b15598b",
       "semantic.color.background.success.default": "5c0625a382395ee2f5fefbab8bd81abe121e45a2",
       "semantic.color.background.success.hovered": "df405bc6943f1a2ef0d1d59d2b25795a7a1b69bc",
       "semantic.color.background.success.pressed": "7b07a3345c7564677ed83cb35e0949abcba3391e",
       "semantic.color.background.success.selected": "728a61e66fd41ffd2f48df42cd1fae4164cff887",
       "semantic.color.background.success.disabled": "cd517268a6f2bffb993b27900d506f084207f73d",
       "semantic.color.background.success.subtle.default": "0e5012b552c51cc64dc6bc95cdae71721533b5fa",
-      "semantic.color.background.success.subtle.hovered": "1f3cd593fe3db94543c14fa386d1656d08a1e282"
+      "semantic.color.background.success.subtle.hovered": "1f3cd593fe3db94543c14fa386d1656d08a1e282",
+      "semantic.color.background.tertiary.default": "1740506793d416fef171a8a7c5b173085691e38b"
     },
     "group": "colors"
   }
