@@ -215,6 +215,8 @@
       "semantic.color.background.primary.pressed": "98fd9a7ee1b291f4caf2d8266e19cf956eb92b4b",
       "semantic.color.background.primary.selected": "758c62aa1ff7d78e9733663053d1b1d64739e7e7",
       "semantic.color.background.primary.disabled": "f2a103413b9fb0858b9e7c860919fe25130d70fb",
+      "semantic.color.background.primary.subtle.default": "d4f5002fe3f576f451dc4dc0fbe48d49daa48cc3",
+      "semantic.color.background.primary.subtle.hovered": "a26d6669e1f7b36ece3d236650c127dc16412300",
       "semantic.color.background.base.disabled": "ef676b184663b1fa5f3a1deb846dfb43c3d064f8",
       "semantic.color.background.base.default": "21139ba3643384237e1396bc19f9573fb5dc35e8",
       "semantic.color.background.base.hovered": "af0ab51eedc147a5db169b64f3b60cf6dfe952b4",
@@ -250,8 +252,7 @@
       "semantic.color.background.success.subtle.default": "0e5012b552c51cc64dc6bc95cdae71721533b5fa",
       "semantic.color.background.success.subtle.hovered": "1f3cd593fe3db94543c14fa386d1656d08a1e282",
       "semantic.color.background.tertiary.default": "1740506793d416fef171a8a7c5b173085691e38b",
-      "semantic.color.background.primary.subtle.default": "d4f5002fe3f576f451dc4dc0fbe48d49daa48cc3",
-      "semantic.color.background.primary.subtle.hovered": "a26d6669e1f7b36ece3d236650c127dc16412300"
+      "semantic.color.background.tertiary.hovered": "0ba85cf587b6f33ac91f79462b70109a9369b933"
     },
     "group": "colors"
   },
@@ -436,6 +437,8 @@
       "semantic.color.background.primary.pressed": "98fd9a7ee1b291f4caf2d8266e19cf956eb92b4b",
       "semantic.color.background.primary.selected": "758c62aa1ff7d78e9733663053d1b1d64739e7e7",
       "semantic.color.background.primary.disabled": "f2a103413b9fb0858b9e7c860919fe25130d70fb",
+      "semantic.color.background.primary.subtle.default": "d4f5002fe3f576f451dc4dc0fbe48d49daa48cc3",
+      "semantic.color.background.primary.subtle.hovered": "a26d6669e1f7b36ece3d236650c127dc16412300",
       "semantic.color.background.base.disabled": "ef676b184663b1fa5f3a1deb846dfb43c3d064f8",
       "semantic.color.background.base.default": "21139ba3643384237e1396bc19f9573fb5dc35e8",
       "semantic.color.background.base.hovered": "af0ab51eedc147a5db169b64f3b60cf6dfe952b4",
@@ -471,8 +474,7 @@
       "semantic.color.background.success.subtle.default": "0e5012b552c51cc64dc6bc95cdae71721533b5fa",
       "semantic.color.background.success.subtle.hovered": "1f3cd593fe3db94543c14fa386d1656d08a1e282",
       "semantic.color.background.tertiary.default": "1740506793d416fef171a8a7c5b173085691e38b",
-      "semantic.color.background.primary.subtle.default": "d4f5002fe3f576f451dc4dc0fbe48d49daa48cc3",
-      "semantic.color.background.primary.subtle.hovered": "a26d6669e1f7b36ece3d236650c127dc16412300"
+      "semantic.color.background.tertiary.hovered": "0ba85cf587b6f33ac91f79462b70109a9369b933"
     },
     "group": "colors"
   }

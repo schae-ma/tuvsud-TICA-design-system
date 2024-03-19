@@ -213,6 +213,10 @@
           "default": {
             "value": "{core.color.neutral.neutral-800}",
             "type": "color"
+          },
+          "hovered": {
+            "value": "{core.color.neutral.neutral-700}",
+            "type": "color"
           }
         }
       }
