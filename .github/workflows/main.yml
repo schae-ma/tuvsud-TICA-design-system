@@ -39,10 +39,13 @@ jobs:
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
             ${{ runner.os }}-
-         
+      
+      - name: Install Supernova CLI dependency
+        run: npm install @supernovaio/supernova-sdk
       - name: Install npm dependencies
         run: npm install 
-        
+
+
       - name: Synchronize tokens with Supernova 
         run: supernova sync-tokens \
           --apiKey="${{ secrets.SUPERNOVA_GITHUB }}"\
