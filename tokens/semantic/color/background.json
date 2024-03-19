@@ -27,6 +27,16 @@
             "value": "{core.color.neutralA.neutral-100A}",
             "type": "color",
             "description": "Use for üdisabled background that should use the primary brand color such as buttons."
+          },
+          "subtle": {
+            "default": {
+              "value": "{core.color.blue.blue-100}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{core.color.blue.blue-200}",
+              "type": "color"
+            }
           }
         },
         "base": {
