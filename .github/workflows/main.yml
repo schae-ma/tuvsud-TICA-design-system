@@ -42,8 +42,6 @@ jobs:
       
       - name: Install Supernova CLI dependency
         run: npm install @supernovaio/supernova-sdk
-      - name: Install npm dependencies
-        run: npm install 
 
 
       - name: Synchronize tokens with Supernova 
