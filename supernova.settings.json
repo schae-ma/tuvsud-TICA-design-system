@@ -1,10 +1,26 @@
 {
     "mode": "multi-file",
-    "mapping": [{
-            "tokensTheme": "light",
-            "supernovaBrand": "default",
-            "supernovaTheme": null
+    "mapping":
+    [{
+    
+    "tokensTheme" : ["light"],
+    
+    "supernovaBrand" : "Default",
+    
+    "supernovaTheme" : "light"
+    
+    },
+    
+    {
+    
+    "tokensTheme" : ["dark"],
+    
+    "supernovaBrand" : "Default",
+    
+    "supernovaTheme" : "dark"
+    
     }
+    
     ],
     "settings": {
         "dryRun": false,
