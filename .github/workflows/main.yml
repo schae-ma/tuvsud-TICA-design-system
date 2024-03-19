@@ -42,9 +42,7 @@ jobs:
          
       - name: Install npm dependencies
         run: npm install 
-      - name: Install SupernovaCLI dependency
-        run: npm install @supernovaio/cli
-
+        
       - name: Synchronize tokens with Supernova 
         run: supernova sync-tokens \
           --apiKey="${{ secrets.SUPERNOVA_GITHUB }}"\
