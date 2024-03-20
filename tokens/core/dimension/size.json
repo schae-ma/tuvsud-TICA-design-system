@@ -28,6 +28,10 @@
       "size-100": {
         "value": "0.063rem",
         "type": "dimension"
+      },
+      "size-9000": {
+        "value": "7rem",
+        "type": "dimension"
       }
     }
   }
