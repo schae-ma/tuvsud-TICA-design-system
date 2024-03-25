@@ -42,7 +42,7 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{core.color.neutral.neutral-100}",
+            "value": "{core.color.neutral.neutral-300}",
             "type": "color"
           }
         }
