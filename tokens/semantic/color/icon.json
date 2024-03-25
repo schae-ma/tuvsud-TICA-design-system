@@ -35,6 +35,16 @@
             "value": "{core.color.green.green-800}",
             "type": "color"
           }
+        },
+        "secondary": {
+          "default": {
+            "value": "{core.color.neutral.neutral-700}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{core.color.neutral.neutral-100}",
+            "type": "color"
+          }
         }
       }
     }
