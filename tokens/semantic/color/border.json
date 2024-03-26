@@ -20,19 +20,19 @@
         },
         "base": {
           "default": {
-            "value": "{core.color.neutral.neutral-200}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{core.color.neutral.neutral-400}",
-            "type": "color"
-          },
-          "hovered": {
             "value": "{core.color.neutral.neutral-300}",
             "type": "color"
           },
-          "disabled": {
+          "pressed": {
+            "value": "{core.color.neutral.neutral-500}",
+            "type": "color"
+          },
+          "hovered": {
             "value": "{core.color.neutral.neutral-400}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutral.neutral-200}",
             "type": "color"
           }
         }
