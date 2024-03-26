@@ -20,7 +20,7 @@
         },
         "base": {
           "default": {
-            "value": "{core.color.neutralA.neutral-100A}",
+            "value": "{core.color.neutral.neutral-200}",
             "type": "color"
           },
           "pressed": {
@@ -28,7 +28,7 @@
             "type": "color"
           },
           "hovered": {
-            "value": "{core.color.neutralA.neutral-200A}",
+            "value": "{core.color.neutral.neutral-300}",
             "type": "color"
           },
           "disabled": {
